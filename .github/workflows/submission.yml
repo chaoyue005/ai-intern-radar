@@ -1,0 +1,34 @@
+name: 收录投稿岗位
+
+# 有人通过「提交岗位」表单开了 Issue → 你审核后给它加上 approved 标签 → 自动写入 manual_jobs.yaml 并关闭 Issue
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  add:
+    if: github.event.label.name == 'approved'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install pyyaml
+      - name: 写入岗位
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: python -m scripts.submission
+      - name: 提交
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data/manual_jobs.yaml
+          git commit -m "收录投稿 #${{ github.event.issue.number }}" && git push
+      - name: 关闭 Issue
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: gh issue close ${{ github.event.issue.number }} -R ${{ github.repository }} -c "已收录，网站几分钟后更新。谢谢！"

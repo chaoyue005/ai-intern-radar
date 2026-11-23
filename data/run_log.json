@@ -1,0 +1,22 @@
+{
+ "at": "2026-11-23T13:55:43+00:00",
+ "items": [
+  {
+   "key": "stats",
+   "value": {
+    "updated_at": "2026-11-23T13:55:43+00:00",
+    "total": 82,
+    "remote": 24,
+    "china_onsite": 58,
+    "added_today": 89,
+    "removed_7d": 0,
+    "companies": 46,
+    "sources": []
+   }
+  },
+  {
+   "key": "seconds",
+   "value": 0
+  }
+ ]
+}

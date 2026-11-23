@@ -1,0 +1,63 @@
+# 筛选规则。想调整收录口径时，只改这个文件。
+# 所有正则大小写不敏感。
+
+intern:
+  # 必须命中其一（单词边界，避免误匹配 international）
+  include: '\bintern(ship)?s?\b|实习|\bin[- ]residence\b|\bfellow(ship)?\b|\bambassador\b|\bco-?op\b'
+  # 命中即排除（全职、高级职位）
+  exclude_title: '\b(senior|sr\.?|staff|principal|lead|head|director|manager|vp|chief(?! of staff intern))\b|全职|正式员工|社招|经理(?!助理)|总监|负责人'
+
+technical:
+  # 标题命中即视为技术岗（排除）
+  exclude_title: '\bengineer(ing)?\b|\bscientist\b|\bdeveloper\b(?! (marketing|relations|advocate))|\bsoftware\b|machine learning|\bml\b|\bhardware\b|\bsecurity\b|\binfra(structure)?\b|\bquant\b|\bresearch(er)? (scientist|engineer)\b|\bdata engineer|\bbackend\b|\bfrontend\b|\bfull[- ]?stack\b|\bdevops\b|\bsre\b|\bfirmware\b|\bcomputer vision\b|\bswe\b|research(er)? intern|\bresearcher\b|research (internship|fellow)|applied research|technical staff|mechatronic|mechanical|thermal|electrical|\bdv\b|\bdft\b|si/pi|inference|data scien|test automation|\bphd\b|\bstem\b|算法|研发|(?<!市场|业务|商务|渠道)开发|工程师|前端|后端|测试|运维|架构|芯片|嵌入式'
+  # 保留但打 semi_technical 标签
+  semi_technical: 'devrel|developer (marketing|relations|advocate)|ai trainer|训练师|评测|evaluation|标注|annotat|prompt|提示词'
+
+# 岗位族：按顺序匹配，第一个命中的为主岗位族
+role_families:
+  growth: 'growth|增长|投放|\baso\b|\bseo\b|performance marketing|user acquisition|拉新'
+  gtm: '\bgtm\b|go[- ]to[- ]market|sales|\bsdr\b|\bbdr\b|revops|商业化|销售|线索'
+  pmm: 'product marketing|\bpmm\b|产品营销'
+  marketing: 'marketing|brand|\bpr\b|public relations|events?|市场|品牌|公关|活动'
+  content: 'content|copywrit|video|editor|storytell|writer|内容|新媒体|文案|短视频|剪辑|编辑'
+  social: 'social media|influencer|creator|\bugc\b|\bkol\b|tiktok|instagram|社媒|达人|红人|博主'
+  community: 'community|ambassador|discord|社区|社群'
+  pm: 'product manager|\bapm\b|product intern|产品经理|产品实习|ai 产品'
+  ops: 'operations|\bops\b|customer success|support|localization|运营|客户成功|本地化|出海'
+  bd: 'business development|\bbd\b|partnership|商务|渠道|合作'
+  strategy: 'strategy|research|analyst|intelligence|bizops|战略|研究|竞品|分析|投研'
+  founders_office: "founder'?s office|chief of staff|generalist|ceo|总裁办|创始人助理|ceo 助理"
+  ux_research: 'user research|ux research|用户研究|用研'
+  hr: 'recruit|talent|people|\bhr\b|招聘|人力'
+  semi_tech: 'devrel|developer (marketing|relations)|ai trainer|evaluation|训练师|评测|标注'
+
+remote:
+  positive: '\bremote\b|anywhere|work from home|\bwfh\b|全球远程|远程|线上实习|居家办公|在家办公|distributed'
+  negative: 'remote \((us|usa|united states|u\.s\.)[^)]*\)|us[- ]based|based in the us|bay area|san francisco|new york|\bnyc\b|hybrid|on-?site|in[- ]office|in person|驻场|坐班'
+
+work_auth:
+  us_only: 'authorized to work in the (us|united states)|work authorization in the (us|united states)|no (visa )?sponsorship|us citizen|green card|must reside in the (us|united states)'
+
+unpaid: '\bunpaid\b|无薪|不提供薪资|无补贴|实习证明|volunteer'
+
+hard_exclude:
+  # 名称或描述命中即排除：加密/Web3、声誉风险
+  crypto: '\bweb3\b|\bcrypto\b|blockchain|\bdefi\b|\bnft\b|token launch|区块链|加密货币|币圈|链上'
+  mba_only: '\(mba\)|\bmba intern|\bmba (only|students only|candidates)|仅限 ?mba|返校'
+  europe_onsite: '\b(london|paris|berlin|amsterdam|munich|dublin|stockholm|madrid|lisbon|zurich)\b.*(on-?site|in[- ]office|hybrid)'
+
+# 国内线下（5 月后）城市
+china_cities: ['上海', '杭州', '深圳', '广州', '北京', 'Shanghai', 'Hangzhou', 'Shenzhen', 'Guangzhou', 'Beijing']
+
+freshness:
+  stale_days: 60
+  zombie_days: 180
+
+# 排序权重（越大越靠前）
+ranking:
+  remote_no_visa: 100
+  chinese_team: 40
+  tier: {A: 30, B: 15, C: 0}
+  deadline_within_14d: 20
+  has_pay: 5
+  big_tech_penalty: 25   # 大厂不优先

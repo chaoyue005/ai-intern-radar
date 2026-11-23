@@ -1,0 +1,76 @@
+# 渠道配置。新增公司请到 data/companies.yaml；这里只放关键词和全局开关。
+
+ats:
+  enabled: true        # Ashby / Greenhouse / Lever / Workable / SmartRecruiters / Recruitee，按 companies.yaml 里的 ats 字段抓取
+
+yc:
+  enabled: true
+  only_ai: true        # 只看带 AI 标签的 YC 公司
+  max_companies: 900
+
+hn:
+  enabled: true        # 最新一期 Ask HN: Who is hiring?
+
+shixiseng:
+  enabled: true
+  pages_per_keyword: 2
+  delay_seconds: 2.5   # 低频访问
+  max_details: 150     # 每天最多打开的详情页数
+  keywords:
+    - AI海外增长
+    - AI出海运营
+    - 海外内容增长
+    - AI产品运营
+    - AIGC 海外
+    - GTM 实习
+    - AI 市场 实习
+    - AI 内容运营
+    - AI 用户运营
+    - AI 社媒运营
+    - AI 产品经理实习
+    - AI 商务 实习
+    - 大模型 运营 实习
+    - AI 远程实习
+  # 仅保留公司名或描述与 AI 相关的岗位
+  ai_signal: 'AI|AIGC|大模型|人工智能|智能体|Agent|LLM|GPT|生成式|多模态|机器人|数字人|算法驱动'
+
+eleduck:
+  enabled: true
+  pages: 3
+
+funding_rss:
+  enabled: true
+  feeds:
+    - https://technode.com/feed/
+    - https://www.producthunt.com/feed
+    - https://techcrunch.com/category/artificial-intelligence/feed/
+  funding_signal: 'raise[sd]?|funding|seed|series [a-e]|融资|领投|天使轮|[a-e] ?轮|pre-?a'
+  ai_signal: '\bAI\b|artificial intelligence|LLM|agent|generative|大模型|人工智能|智能体|AIGC'
+
+# Chrome 巡检（在你电脑上运行）的关键词，见 patrol/PATROL.md
+patrol:
+  boss:
+    - AI海外增长实习
+    - 远程实习 AI 海外
+    - 海外增长 远程 实习
+    - GTM 实习 AI
+    - AI Agent 海外 增长 实习
+    - AI 产品运营 实习
+    - AI 内容运营 实习
+  boss_cities: [上海, 杭州, 深圳, 广州, 北京]
+  linkedin:
+    - AI startup intern marketing remote
+    - AI growth intern remote
+    - GTM intern AI
+    - product marketing intern AI
+    - content intern AI startup
+  x:
+    - '(招聘 OR 在招) 实习 (增长 OR 运营 OR GTM OR 社媒) AI'
+    - '(hiring) intern (growth OR marketing OR GTM) AI remote'
+    - '"founding" intern (marketing OR growth OR GTM) AI'
+  jobsdb: [AI intern marketing, AI intern operations]
+  jike: [AI 实习 招聘, 出海 实习 远程]
+  nowcoder: [AI 运营 实习, AI 产品 实习]
+  wellfound: [marketing intern AI, growth intern AI]
+  maimai: [AI 实习 运营]
+  xiaohongshu: [AI 实习 远程, AI 出海 实习, 内推 AI 运营]

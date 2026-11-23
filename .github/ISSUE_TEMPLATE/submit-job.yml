@@ -1,0 +1,40 @@
+name: 提交岗位 / Submit an internship
+description: 看到 AI 公司的非技术实习？贴进来，审核后上线。
+title: "[岗位] 公司 - 岗位名"
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        只收录：**有融资的 AI 公司** + **非技术实习**（增长、GTM、市场、内容、社媒、社区、运营、BD、AI 产品等）+ **有薪**。
+        不收：全职、技术岗、无薪、Web3。
+  - type: input
+    id: company
+    attributes: { label: 公司, placeholder: "例如：MiniMax" }
+    validations: { required: true }
+  - type: input
+    id: title
+    attributes: { label: 岗位名称, placeholder: "例如：海外增长实习生" }
+    validations: { required: true }
+  - type: input
+    id: url
+    attributes: { label: 投递链接或邮箱, placeholder: "https://... 或 hr@xxx.com" }
+    validations: { required: true }
+  - type: dropdown
+    id: source
+    attributes:
+      label: 来源
+      options: [Boss 直聘, 实习僧, LinkedIn, X/Twitter, 小红书, 即刻, 牛客, 公司官网, 内推/朋友, 其他]
+    validations: { required: true }
+  - type: input
+    id: location
+    attributes: { label: 地点 / 是否远程, placeholder: "例如：全远程 / 上海线下 / Remote (anywhere)" }
+  - type: input
+    id: pay
+    attributes: { label: 薪资, placeholder: "例如：200-250/天" }
+  - type: input
+    id: deadline
+    attributes: { label: 截止日期（可选）, placeholder: "YYYY-MM-DD" }
+  - type: textarea
+    id: description
+    attributes: { label: 岗位描述（粘贴 JD）, description: "登录后才能看的平台（Boss、LinkedIn），请把 JD 原文贴在这里。" }

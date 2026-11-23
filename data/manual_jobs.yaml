@@ -1,0 +1,60 @@
+# 人工收录的岗位（Chrome 巡检、投稿审核通过、或交接文档里的种子岗位）。
+# 必填：company, title, apply_url, source。其余字段可选，缺的会由规则和 AI 自动补。
+# status: open | closed。关闭后会出现在「本周下线」。
+
+- company: FORMAS.AI
+  title: Marketing Ops Intern
+  apply_url: mailto:careers@formas.ai
+  apply_method: email
+  source: seed
+  location: 全球远程
+  is_remote: true
+  description: Marketing Ops Intern，全球远程。投递邮箱 careers@formas.ai。
+  verified_at: 2026-11-20
+
+- company: Simular
+  title: GTM Content Intern
+  apply_url: https://jobs.ashbyhq.com/simular/b8281155-c4e2-41c5-9b8d-c4588c90fc24
+  source: seed
+  location: Remote
+  is_remote: true
+  verified_at: 2026-11-20
+
+- company: Simular
+  title: GTM Growth Ops Intern
+  apply_url: https://jobs.ashbyhq.com/simular/0597dd82-d5e7-4d3d-b434-7396a81c91d4
+  source: seed
+  location: Remote
+  is_remote: true
+  verified_at: 2026-11-20
+
+- company: NemoVideo
+  title: Instagram 运营实习生
+  apply_url: https://www.shixiseng.com/intern/inn_5gj0hh95exu3
+  apply_method: shixiseng
+  source: seed
+  location: 远程
+  is_remote: true
+  days_text: 5天/周
+  deadline: 2026-11-30
+  verified_at: 2026-11-20
+
+- company: One2X（Medeo）
+  title: 海外社媒运营实习生
+  apply_url: https://www.shixiseng.com/intern/inn_sbozm9dajatz
+  apply_method: shixiseng
+  source: seed
+  location: 全远程
+  is_remote: true
+  pay_text: 200-250/天
+  deadline: 2026-12-10
+  verified_at: 2026-11-20
+
+- company: 词擎聚联
+  title: 海外产品增长实习生
+  apply_url: https://www.zhipin.com/job_detail/e731450b7d72dbff0nN72tq5F1NS.html
+  apply_method: boss
+  source: seed
+  location: 远程
+  is_remote: true
+  verified_at: 2026-11-20

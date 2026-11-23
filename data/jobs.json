@@ -1,0 +1,4965 @@
+{
+ "stats": {
+  "updated_at": "2026-11-23T13:55:43+00:00",
+  "total": 82,
+  "remote": 24,
+  "china_onsite": 58,
+  "added_today": 89,
+  "removed_7d": 0,
+  "companies": 46,
+  "sources": []
+ },
+ "jobs": [
+  {
+   "id": "fee15d87581c",
+   "title": "Instagram 运营实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_5gj0hh95exu3",
+   "apply_method": "shixiseng",
+   "source": "seed",
+   "location": "远程",
+   "lane": "remote",
+   "china_city": null,
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "social",
+   "semi_technical": false,
+   "company": {
+    "name": "NemoVideo",
+    "site": "nemovideo.com",
+    "one_liner": null,
+    "chinese_team": true,
+    "funding": {
+     "status": "verified",
+     "amount_usd": 10000000,
+     "lead": "IDG",
+     "needs_source": true
+    },
+    "tier": "A",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": null,
+   "deadline": "2026-11-30",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-20",
+   "pay": {
+    "text": null
+   },
+   "days_text": "5天/周",
+   "months_text": null,
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [
+     "融资有公开来源"
+    ],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 200.0
+  },
+  {
+   "id": "d2839bca5cd1",
+   "title": "海外AI内容实习生【线上可转正】",
+   "apply_url": "https://www.shixiseng.com/intern/inn_xbkvcxgbw5vg",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "杭州 远程",
+   "lane": "remote",
+   "china_city": "杭州",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "NemoVideo",
+    "site": "nemovideo.com",
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "verified",
+     "amount_usd": 10000000,
+     "lead": "IDG",
+     "needs_source": true
+    },
+    "tier": "A",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-18",
+   "deadline": "2026-11-30",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [
+     "融资有公开来源"
+    ],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 198.3,
+   "also_cities": [
+    "北京"
+   ]
+  },
+  {
+   "id": "c0602b8f3ffa",
+   "title": "海外内容运营实习生·AIGC·远程",
+   "apply_url": "https://www.shixiseng.com/intern/inn_wp2dhvjodxkq",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京 远程",
+   "lane": "remote",
+   "china_city": "北京",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "NemoVideo",
+    "site": "nemovideo.com",
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "verified",
+     "amount_usd": 10000000,
+     "lead": "IDG",
+     "needs_source": true
+    },
+    "tier": "A",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-18",
+   "deadline": "2026-11-30",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [
+     "融资有公开来源"
+    ],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 198.3
+  },
+  {
+   "id": "5997fc40f9ae",
+   "title": "海外社媒运营实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_sbozm9dajatz",
+   "apply_method": "shixiseng",
+   "source": "seed",
+   "location": "全远程",
+   "lane": "remote",
+   "china_city": null,
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "social",
+   "semi_technical": false,
+   "company": {
+    "name": "One2X（Medeo）",
+    "site": "medeo.app",
+    "one_liner": null,
+    "chinese_team": true,
+    "funding": {
+     "status": "verified",
+     "round": "Series A",
+     "amount_usd": 23000000,
+     "needs_source": true
+    },
+    "tier": "A",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": null,
+   "deadline": "2026-12-10",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-20",
+   "pay": {
+    "text": "200-250/天",
+    "min": 200.0,
+    "max": 250.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": null,
+   "months_text": null,
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [
+     "融资有公开来源"
+    ],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 185.0
+  },
+  {
+   "id": "7b948291662b",
+   "title": "海外内容增长实习生【远程可转正】",
+   "apply_url": "https://www.shixiseng.com/intern/inn_sf6e03vv6uhw",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京 远程",
+   "lane": "remote",
+   "china_city": "北京",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "NemoVideo",
+    "site": "nemovideo.com",
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "verified",
+     "amount_usd": 10000000,
+     "lead": "IDG",
+     "needs_source": true
+    },
+    "tier": "A",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-18",
+   "deadline": "2026-12-18",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [
+     "融资有公开来源"
+    ],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 178.3,
+   "also_cities": [
+    "广州"
+   ]
+  },
+  {
+   "id": "4110fb9cedd3",
+   "title": "海外AI视频运营实习生【线上】",
+   "apply_url": "https://www.shixiseng.com/intern/inn_fkdogl2rkiz2",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海 远程",
+   "lane": "remote",
+   "china_city": "上海",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "NemoVideo",
+    "site": "nemovideo.com",
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "verified",
+     "amount_usd": 10000000,
+     "lead": "IDG",
+     "needs_source": true
+    },
+    "tier": "A",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-18",
+   "deadline": "2026-12-18",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [
+     "融资有公开来源"
+    ],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 178.3
+  },
+  {
+   "id": "14b9cfc27697",
+   "title": "海外社媒运营实习生｜AI远程实习",
+   "apply_url": "https://www.shixiseng.com/intern/inn_a6cnn2fphqoi",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "深圳 远程",
+   "lane": "remote",
+   "china_city": "深圳",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "social",
+   "semi_technical": false,
+   "company": {
+    "name": "NemoVideo",
+    "site": "nemovideo.com",
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "verified",
+     "amount_usd": 10000000,
+     "lead": "IDG",
+     "needs_source": true
+    },
+    "tier": "A",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-18",
+   "deadline": "2026-12-18",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [
+     "融资有公开来源"
+    ],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 178.3
+  },
+  {
+   "id": "683531acc981",
+   "title": "海外增长运营实习生【线上可转正】",
+   "apply_url": "https://www.shixiseng.com/intern/inn_bpoyvkx3fkil",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "广州 远程",
+   "lane": "remote",
+   "china_city": "广州",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "NemoVideo",
+    "site": "nemovideo.com",
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "verified",
+     "amount_usd": 10000000,
+     "lead": "IDG",
+     "needs_source": true
+    },
+    "tier": "A",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-17",
+   "deadline": "2026-12-18",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [
+     "融资有公开来源"
+    ],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 178.0
+  },
+  {
+   "id": "ab593a21cfc8",
+   "title": "海外AI内容运营实习生｜远程实习",
+   "apply_url": "https://www.shixiseng.com/intern/inn_d4909i6nazib",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "杭州 远程",
+   "lane": "remote",
+   "china_city": "杭州",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "NemoVideo",
+    "site": "nemovideo.com",
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "verified",
+     "amount_usd": 10000000,
+     "lead": "IDG",
+     "needs_source": true
+    },
+    "tier": "A",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-17",
+   "deadline": "2026-12-18",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [
+     "融资有公开来源"
+    ],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 178.0
+  },
+  {
+   "id": "e7f98694b533",
+   "title": "海外内容运营实习生｜AIGC",
+   "apply_url": "https://www.shixiseng.com/intern/inn_bdo9nu3lumk2",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "杭州 远程",
+   "lane": "remote",
+   "china_city": "杭州",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "NemoVideo",
+    "site": "nemovideo.com",
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "verified",
+     "amount_usd": 10000000,
+     "lead": "IDG",
+     "needs_source": true
+    },
+    "tier": "A",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-09",
+   "deadline": "2026-12-10",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [
+     "融资有公开来源"
+    ],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 175.3
+  },
+  {
+   "id": "90ad4458e1f6",
+   "title": "海外产品增长实习生",
+   "apply_url": "https://www.zhipin.com/job_detail/e731450b7d72dbff0nN72tq5F1NS.html",
+   "apply_method": "boss",
+   "source": "seed",
+   "location": "远程",
+   "lane": "remote",
+   "china_city": null,
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "词擎聚联",
+    "site": null,
+    "one_liner": null,
+    "chinese_team": true,
+    "funding": {
+     "status": "self_reported"
+    },
+    "tier": "B",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": null,
+   "deadline": null,
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-20",
+   "pay": {
+    "text": null
+   },
+   "days_text": null,
+   "months_text": null,
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 165.0
+  },
+  {
+   "id": "cba6fb925b33",
+   "title": "远程-海外创意内容实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_h6ynqdfcljm8",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "remote",
+   "china_city": "上海",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "哇喂科技",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-23",
+   "deadline": "2026-12-24",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "100-200/天",
+    "min": 100.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 155.0
+  },
+  {
+   "id": "ef8679f1c9a0",
+   "title": "远程-海外社媒内容运营实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_lw4zm37qbdfw",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京 远程",
+   "lane": "remote",
+   "china_city": "北京",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "哇喂科技",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-17",
+   "deadline": "2026-12-18",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "100-200/天",
+    "min": 100.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "6个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 153.0,
+   "also_cities": [
+    "上海"
+   ]
+  },
+  {
+   "id": "de7f359a591f",
+   "title": "AI海外运营",
+   "apply_url": "https://www.shixiseng.com/intern/inn_h6igckmgugb3",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京 远程",
+   "lane": "remote",
+   "china_city": "北京",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "麦汐科技",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-11",
+   "deadline": "2026-12-11",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-200/天",
+    "min": 150.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 151.0
+  },
+  {
+   "id": "06437862491f",
+   "title": "AI运营远程实习（AI弹幕产品）",
+   "apply_url": "https://www.shixiseng.com/intern/inn_7dktpup28htq",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海 远程",
+   "lane": "remote",
+   "china_city": "上海",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "FaceMind",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-21",
+   "deadline": "2026-12-14",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 149.3
+  },
+  {
+   "id": "4800c0280a4c",
+   "title": "AI产品新媒体运营",
+   "apply_url": "https://www.shixiseng.com/intern/inn_wfbshwh9i9uv",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海 远程",
+   "lane": "remote",
+   "china_city": "上海",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "淘课",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-10",
+   "deadline": "2026-12-09",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 145.7
+  },
+  {
+   "id": "9f7c76f61c73",
+   "title": "AI产品内容编导/内容增长实习生（可远程）",
+   "apply_url": "https://www.shixiseng.com/intern/inn_pjx6ydveebhg",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "remote",
+   "china_city": "上海",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "Perfects.AI",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-01",
+   "deadline": "2027-10-01",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "100-200/天",
+    "min": 100.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "3天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 145.0
+  },
+  {
+   "id": "30fc5934b5da",
+   "title": "海外增长与内容实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_tai2v0djgksw",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "成都 远程",
+   "lane": "remote",
+   "china_city": null,
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "啾啾科技",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-07-06",
+   "deadline": "2027-07-07",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "80-150/天",
+    "min": 80.0,
+    "max": 150.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 145.0
+  },
+  {
+   "id": "da2f4db45e6d",
+   "title": "Marketing Ops Intern",
+   "apply_url": "mailto:careers@formas.ai",
+   "apply_method": "email",
+   "source": "seed",
+   "location": "全球远程",
+   "lane": "remote",
+   "china_city": null,
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "marketing",
+   "semi_technical": false,
+   "company": {
+    "name": "FORMAS.AI",
+    "site": "formas.ai",
+    "one_liner": null,
+    "chinese_team": false,
+    "funding": {
+     "status": "verified",
+     "round": "Pre-seed",
+     "amount_usd": 3980000,
+     "lead": "Vertex",
+     "needs_source": true
+    },
+    "tier": "A",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": null,
+   "deadline": null,
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-20",
+   "pay": {
+    "text": null
+   },
+   "days_text": null,
+   "months_text": null,
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [
+     "融资有公开来源"
+    ],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 140.0
+  },
+  {
+   "id": "5b7cadd64940",
+   "title": "GTM Content Intern",
+   "apply_url": "https://jobs.ashbyhq.com/simular/b8281155-c4e2-41c5-9b8d-c4588c90fc24",
+   "apply_method": "ats",
+   "source": "seed",
+   "location": "Remote",
+   "lane": "remote",
+   "china_city": null,
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "gtm",
+   "semi_technical": false,
+   "company": {
+    "name": "Simular",
+    "site": "simular.ai",
+    "one_liner": null,
+    "chinese_team": false,
+    "funding": {
+     "status": "verified",
+     "round": "Series A",
+     "amount_usd": 21500000,
+     "lead": "Felicis",
+     "needs_source": true
+    },
+    "tier": "A",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": null,
+   "deadline": null,
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-20",
+   "pay": {
+    "text": null
+   },
+   "days_text": null,
+   "months_text": null,
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [
+     "融资有公开来源"
+    ],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 140.0
+  },
+  {
+   "id": "c6e8110a8671",
+   "title": "GTM Growth Ops Intern",
+   "apply_url": "https://jobs.ashbyhq.com/simular/0597dd82-d5e7-4d3d-b434-7396a81c91d4",
+   "apply_method": "ats",
+   "source": "seed",
+   "location": "Remote",
+   "lane": "remote",
+   "china_city": null,
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "Simular",
+    "site": "simular.ai",
+    "one_liner": null,
+    "chinese_team": false,
+    "funding": {
+     "status": "verified",
+     "round": "Series A",
+     "amount_usd": 21500000,
+     "lead": "Felicis",
+     "needs_source": true
+    },
+    "tier": "A",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": null,
+   "deadline": null,
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-20",
+   "pay": {
+    "text": null
+   },
+   "days_text": null,
+   "months_text": null,
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [
+     "融资有公开来源"
+    ],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 140.0
+  },
+  {
+   "id": "67e9885ce735",
+   "title": "【志愿者发布】AI 内容出海营销（Reddit 方向）｜远程办公，兼职/实习｜底薪+提成",
+   "apply_url": "https://eleduck.com/posts/QZfLJa",
+   "apply_method": "eleduck",
+   "source": "eleduck",
+   "location": "远程",
+   "lane": "remote",
+   "china_city": null,
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "Elly",
+    "site": null,
+    "one_liner": null,
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-19",
+   "deadline": null,
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": null
+   },
+   "days_text": null,
+   "months_text": null,
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": true,
+   "labels": {
+    "fact": [],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": [
+     "融资未核实",
+     "社区帖子，需人工核实"
+    ]
+   },
+   "status": "open",
+   "score": 108.7
+  },
+  {
+   "id": "b0b31f55b390",
+   "title": "【网易实习】AI产品运营实习生-远程线上",
+   "apply_url": "https://www.shixiseng.com/intern/inn_zrzzyppbpyak",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "杭州 远程",
+   "lane": "remote",
+   "china_city": "杭州",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "网易",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-20",
+   "deadline": "2026-12-21",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "100-150/天",
+    "min": 100.0,
+    "max": 150.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "4天/周",
+   "months_text": "4个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 104.0
+  },
+  {
+   "id": "76857f23350b",
+   "title": "月薪3000起｜招聘海外短视频运营的兼职伙伴（AI短剧·远程兼职）",
+   "apply_url": "https://eleduck.com/posts/XNfOA1",
+   "apply_method": "eleduck",
+   "source": "eleduck",
+   "location": "远程",
+   "lane": "remote",
+   "china_city": null,
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "电鸭社区帖子",
+    "site": null,
+    "one_liner": null,
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-30",
+   "deadline": null,
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": null
+   },
+   "days_text": null,
+   "months_text": null,
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": true,
+   "labels": {
+    "fact": [],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": [
+     "融资未核实",
+     "社区帖子，需人工核实"
+    ]
+   },
+   "status": "open",
+   "score": 102.0
+  },
+  {
+   "id": "4553d984e692",
+   "title": "AI 内容增长/AI新媒体运营实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_fil5kollh1hz",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "江苏阿尔微",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-16",
+   "deadline": "2026-11-29",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-200/天",
+    "min": 150.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 72.7
+  },
+  {
+   "id": "1540f3e44dc4",
+   "title": "海外AI短剧编剧实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_n5izbbqnitle",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "深圳",
+   "lane": "china_onsite",
+   "china_city": "深圳",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "marketing",
+   "semi_technical": false,
+   "company": {
+    "name": "风行在线",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-09",
+   "deadline": "2026-11-24",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-250/天",
+    "min": 150.0,
+    "max": 250.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "4天/周",
+   "months_text": "6个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 70.3
+  },
+  {
+   "id": "daea8a68e944",
+   "title": "AI产品运营",
+   "apply_url": "https://www.shixiseng.com/intern/inn_qkilc0amks7n",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "上海桉墨科技",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-27",
+   "deadline": "2026-11-27",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-250/天",
+    "min": 150.0,
+    "max": 250.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "4天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 66.0
+  },
+  {
+   "id": "0c3f4114c1e0",
+   "title": "AIGC影视创作",
+   "apply_url": "https://www.shixiseng.com/intern/inn_ml4hwctn2fsy",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "无忧岛影业",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-23",
+   "deadline": "2026-12-24",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "180-200/天",
+    "min": 180.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 55.0
+  },
+  {
+   "id": "e9920d1d4626",
+   "title": "AIGC实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_aiychh30q3y8",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "外研社",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-20",
+   "deadline": "2026-12-31",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "100-200/天",
+    "min": 100.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 54.0
+  },
+  {
+   "id": "1cfd92b913ad",
+   "title": "AI产品运营与新媒体增长实习生（可转正｜前网易团队·具身潮玩）",
+   "apply_url": "https://www.shixiseng.com/intern/inn_lvfg1idlke3q",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "广州",
+   "lane": "china_onsite",
+   "china_city": "广州",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "奥临智能",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-20",
+   "deadline": "2026-12-15",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-250/天",
+    "min": 150.0,
+    "max": 250.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 54.0
+  },
+  {
+   "id": "acdaae31f33a",
+   "title": "AI编剧实习生（海外短剧）",
+   "apply_url": "https://www.shixiseng.com/intern/inn_aq8yjzmammrp",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "广州",
+   "lane": "china_onsite",
+   "china_city": "广州",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "other",
+   "semi_technical": false,
+   "company": {
+    "name": "宇神五号",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-20",
+   "deadline": "2027-11-21",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-250/天",
+    "min": 150.0,
+    "max": 250.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "3天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 54.0
+  },
+  {
+   "id": "e25d5021a9cb",
+   "title": "可转正｜Social & Content Intern（海外社媒与内容增长实习生）",
+   "apply_url": "https://www.shixiseng.com/intern/inn_4shapgonsmoa",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "橡识科技",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-20",
+   "deadline": "2026-12-21",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "200-300/天",
+    "min": 200.0,
+    "max": 300.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 54.0
+  },
+  {
+   "id": "9f50d41344e1",
+   "title": "AI 产品内容运营实习生（小红书）",
+   "apply_url": "https://www.shixiseng.com/intern/inn_z56itafsfiza",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "极群科技",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-18",
+   "deadline": "2026-12-19",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "250-400/天",
+    "min": 250.0,
+    "max": 400.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "4天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 53.3
+  },
+  {
+   "id": "cb77832352ed",
+   "title": "AI产品-私域运营专员",
+   "apply_url": "https://www.shixiseng.com/intern/inn_hrtxr0thmnub",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "深圳",
+   "lane": "china_onsite",
+   "china_city": "深圳",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "暗壳科技（深圳）有限公司",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-12",
+   "deadline": "2027-01-14",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150/天",
+    "min": 150.0,
+    "max": 150.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 51.3
+  },
+  {
+   "id": "391567f004f5",
+   "title": "AI 产品运营实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_g59qcribmaqa",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "杭州",
+   "lane": "china_onsite",
+   "china_city": "杭州",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "pm",
+   "semi_technical": false,
+   "company": {
+    "name": "元狲",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-10",
+   "deadline": "2026-12-11",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "100-200/天",
+    "min": 100.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "4个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 50.7
+  },
+  {
+   "id": "8b1d9f67605f",
+   "title": "AI产品运营助理（AI开源工具方向） | 可转正",
+   "apply_url": "https://www.shixiseng.com/intern/inn_ozvhbfmu4ig7",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "情感机器",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-10",
+   "deadline": "2026-12-11",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "250-300/天",
+    "min": 250.0,
+    "max": 300.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 50.7
+  },
+  {
+   "id": "a9f5853e440d",
+   "title": "内容增长实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_oqj4kuqfyfix",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "深圳",
+   "lane": "china_onsite",
+   "china_city": "深圳",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "视界之外",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-27",
+   "deadline": "2027-10-28",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-200/天",
+    "min": 150.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "4天/周",
+   "months_text": "4个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 46.0
+  },
+  {
+   "id": "c6d24817aeeb",
+   "title": "AI 影视制作全流程AI产品-用户增长与内容运营",
+   "apply_url": "https://www.shixiseng.com/intern/inn_uglyvrrgxq2p",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "杭州",
+   "lane": "china_onsite",
+   "china_city": "杭州",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "Vitally AI",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-24",
+   "deadline": "2027-01-20",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "80-100/天",
+    "min": 80.0,
+    "max": 100.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "4天/周",
+   "months_text": "4个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 45.0
+  },
+  {
+   "id": "d620fc12f799",
+   "title": "运营实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_nltdnz9n53mg",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "上海睿择",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-23",
+   "deadline": "2027-10-22",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-180/天",
+    "min": 150.0,
+    "max": 180.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 45.0
+  },
+  {
+   "id": "34a645737cd1",
+   "title": "海外市场增长实习生（B2B 获客）",
+   "apply_url": "https://www.shixiseng.com/intern/inn_q035aoe4rxrg",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "凡尔康",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-09-24",
+   "deadline": "2026-12-18",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "200/天",
+    "min": 200.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "4天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 45.0
+  },
+  {
+   "id": "1d199c92fbf1",
+   "title": "GEO运营实习生（AI方向）",
+   "apply_url": "https://www.shixiseng.com/intern/inn_n9vbwfpcw3ye",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "深圳",
+   "lane": "china_onsite",
+   "china_city": "深圳",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "手回科技集团",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-09",
+   "deadline": "2027-01-06",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-200/天",
+    "min": 150.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 45.0
+  },
+  {
+   "id": "81f1338a9b75",
+   "title": "账户运营（AI方向 / 长期发展）",
+   "apply_url": "https://www.shixiseng.com/intern/inn_nhfzwhvte89d",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "杭州",
+   "lane": "china_onsite",
+   "china_city": "杭州",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "暴躁兔",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-04-28",
+   "deadline": "2026-12-24",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "100-150/天",
+    "min": 100.0,
+    "max": 150.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "zombie",
+   "score": 45.0
+  },
+  {
+   "id": "20731a21e596",
+   "title": "AI产品市场化商务运营",
+   "apply_url": "https://www.shixiseng.com/intern/inn_d4jfn0bf95we",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "marketing",
+   "semi_technical": false,
+   "company": {
+    "name": "上海乐亿科技有限公司",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-26",
+   "deadline": "2027-10-27",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "4天/周",
+   "months_text": "6个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 40.7
+  },
+  {
+   "id": "783d042f8e13",
+   "title": "策略运营实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_8ytyqf1af2nk",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "好未来",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-20",
+   "deadline": "2026-11-30",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-200/天",
+    "min": 150.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "4天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 24.0
+  },
+  {
+   "id": "ed2249b04a79",
+   "title": "AIGC设计实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_w3y7bzuh5iyo",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "好未来",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-20",
+   "deadline": "2026-12-03",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-200/天",
+    "min": 150.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 24.0
+  },
+  {
+   "id": "2c23096f0c31",
+   "title": "用户运营实习生（AI方向） - 抖音UGC",
+   "apply_url": "https://www.shixiseng.com/intern/inn_ryxljdpgjm3w",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "字节跳动",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-17",
+   "deadline": "2026-11-27",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "350/天",
+    "min": 350.0,
+    "max": 350.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "4个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 23.0
+  },
+  {
+   "id": "978cdb380049",
+   "title": "AI数据服务平台产品运营实习生 - TikTok",
+   "apply_url": "https://www.shixiseng.com/intern/inn_gea3j1wsj0mi",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "social",
+   "semi_technical": false,
+   "company": {
+    "name": "字节跳动",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-16",
+   "deadline": "2026-12-05",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "350/天",
+    "min": 350.0,
+    "max": 350.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "5个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 22.7
+  },
+  {
+   "id": "032201ced4a4",
+   "title": "AIGC产品经理实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_fcdrouq92v9w",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "pm",
+   "semi_technical": false,
+   "company": {
+    "name": "哔哩哔哩",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-11",
+   "deadline": "2026-12-02",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "200-250/天",
+    "min": 200.0,
+    "max": 250.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "4天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 21.0
+  },
+  {
+   "id": "b8b174ce5536",
+   "title": "AI漫剧-产品运营实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_fi2yskmgi9rg",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "杭州",
+   "lane": "china_onsite",
+   "china_city": "杭州",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "网易有道",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-09",
+   "deadline": "2026-11-30",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "120-150/天",
+    "min": 120.0,
+    "max": 150.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "6个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 20.3
+  },
+  {
+   "id": "9cee04e54164",
+   "title": "海外AI 产品运营",
+   "apply_url": "https://www.shixiseng.com/intern/inn_yqxwmuy5v8r1",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "pm",
+   "semi_technical": false,
+   "company": {
+    "name": "哔哩哔哩",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-03",
+   "deadline": "2026-12-02",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "200-250/天",
+    "min": 200.0,
+    "max": 250.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "4天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 18.3
+  },
+  {
+   "id": "1b403290350c",
+   "title": "海外AI 内容运营",
+   "apply_url": "https://www.shixiseng.com/intern/inn_symddoz3td8g",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "哔哩哔哩",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-30",
+   "deadline": "2026-12-02",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "200-250/天",
+    "min": 200.0,
+    "max": 250.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "4天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 17.0
+  },
+  {
+   "id": "da41736fd533",
+   "title": "AI产品运营（日语方向）",
+   "apply_url": "https://www.shixiseng.com/intern/inn_jxjmmv4afnpb",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "哔哩哔哩",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-28",
+   "deadline": "2026-12-02",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-200/天",
+    "min": 150.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "4天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 16.3
+  },
+  {
+   "id": "240396f53c0c",
+   "title": "AI产品运营实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_cvdnrxfxq3kc",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "美团",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-10",
+   "deadline": "2026-12-02",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "200-250/天",
+    "min": 200.0,
+    "max": 250.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "4个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 15.0
+  },
+  {
+   "id": "a93bc68ac600",
+   "title": "AI产品运营实习生-TikTok",
+   "apply_url": "https://www.shixiseng.com/intern/inn_6rw8qbuwx36m",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "social",
+   "semi_technical": false,
+   "company": {
+    "name": "字节跳动",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-03",
+   "deadline": "2026-12-04",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "4个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 13.3,
+   "also_cities": []
+  },
+  {
+   "id": "66348b64c962",
+   "title": "AI 产品运营与解决方案实习生-GS",
+   "apply_url": "https://www.shixiseng.com/intern/inn_lypiy2cnsgar",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "pm",
+   "semi_technical": false,
+   "company": {
+    "name": "博世中国",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-23",
+   "deadline": "2027-02-24",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-180/天",
+    "min": 150.0,
+    "max": 180.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "6个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 5.0
+  },
+  {
+   "id": "3a9c13dfcf8d",
+   "title": "海外短视频内容运营实习生-TikTok",
+   "apply_url": "https://www.shixiseng.com/intern/inn_qmjfrbbwqoqk",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "字节跳动",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-23",
+   "deadline": "2027-02-20",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "350/天",
+    "min": 350.0,
+    "max": 350.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "4个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 5.0
+  },
+  {
+   "id": "7795f8fc4063",
+   "title": "AI产品运营实习生-抖音电商",
+   "apply_url": "https://www.shixiseng.com/intern/inn_ucewxpufsrtj",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "杭州",
+   "lane": "china_onsite",
+   "china_city": "杭州",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "字节跳动",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-23",
+   "deadline": "2027-02-13",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "350/天",
+    "min": 350.0,
+    "max": 350.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "4天/周",
+   "months_text": "4个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 5.0
+  },
+  {
+   "id": "a27164ef3f82",
+   "title": "海外AI短剧制片实习生(A20618)",
+   "apply_url": "https://www.shixiseng.com/intern/inn_6ochny1nfsic",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "爱奇艺",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-20",
+   "deadline": "2027-02-19",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-180/天",
+    "min": 150.0,
+    "max": 180.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 4.0
+  },
+  {
+   "id": "e2bbbdcee883",
+   "title": "AI产品增长运营实习-金融方向",
+   "apply_url": "https://www.shixiseng.com/intern/inn_ecxwqs1xxl88",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "百度",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-19",
+   "deadline": "2027-01-01",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "200-300/天",
+    "min": 200.0,
+    "max": 300.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "4个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 3.7
+  },
+  {
+   "id": "e77d8d4ae643",
+   "title": "海外AI项目管理实习生(A20872)",
+   "apply_url": "https://www.shixiseng.com/intern/inn_1twvsk4jox24",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "marketing",
+   "semi_technical": false,
+   "company": {
+    "name": "爱奇艺",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-18",
+   "deadline": "2027-02-19",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-180/天",
+    "min": 150.0,
+    "max": 180.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 3.3
+  },
+  {
+   "id": "b7373cb25338",
+   "title": "AI产品运营（J107386）",
+   "apply_url": "https://www.shixiseng.com/intern/inn_tyyflracerpv",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "百度",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-17",
+   "deadline": "2027-01-01",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-250/天",
+    "min": 150.0,
+    "max": 250.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "4天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 3.0,
+   "also_cities": []
+  },
+  {
+   "id": "e3105ce354c7",
+   "title": "AI产品运营实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_hgrcxowqrv3j",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "百度",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-17",
+   "deadline": "2027-01-01",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-250/天",
+    "min": 150.0,
+    "max": 250.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 3.0
+  },
+  {
+   "id": "8ed1a2c19694",
+   "title": "音乐人产品运营（AI产品方向）",
+   "apply_url": "https://www.shixiseng.com/intern/inn_rqmniahyf9n3",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "杭州",
+   "lane": "china_onsite",
+   "china_city": "杭州",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "网易",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-17",
+   "deadline": "2026-12-31",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "120-150/天",
+    "min": 120.0,
+    "max": 150.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "6个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 3.0
+  },
+  {
+   "id": "13ec5acaa783",
+   "title": "产品运营实习生（AI产品运营方向）",
+   "apply_url": "https://www.shixiseng.com/intern/inn_o1fhjm0m4eqk",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "北京陌陌信息技术有限公司",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-11",
+   "deadline": "2027-08-12",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "180-250/天",
+    "min": 180.0,
+    "max": 250.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 1.0
+  },
+  {
+   "id": "830d197ae1ad",
+   "title": "生活方式类 AI 应用 - 产品运营实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_uwel1xnuddfs",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "小红书",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-11",
+   "deadline": "2027-10-10",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-200/天",
+    "min": 150.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "5个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 1.0
+  },
+  {
+   "id": "a8651484e65c",
+   "title": "产品运营实习生（AI剧本评估）(A87457)",
+   "apply_url": "https://www.shixiseng.com/intern/inn_l4mmpipj2zc9",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "爱奇艺",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-09",
+   "deadline": "2027-02-19",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-180/天",
+    "min": 150.0,
+    "max": 180.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 0.3
+  },
+  {
+   "id": "10c68189fb92",
+   "title": "创新产品内容增长运营-运动方向",
+   "apply_url": "https://www.shixiseng.com/intern/inn_z63ily2o1ttg",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "小红书",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-23",
+   "deadline": "2027-10-10",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 0.0
+  },
+  {
+   "id": "340bc419ebc9",
+   "title": "体验运营实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_wcvqikh8s4gp",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "深圳",
+   "lane": "china_onsite",
+   "china_city": "深圳",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "众安保险",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-06",
+   "deadline": "2027-04-15",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "180-250/天",
+    "min": 180.0,
+    "max": 250.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": -0.7,
+   "also_cities": [
+    "上海"
+   ]
+  },
+  {
+   "id": "b6432dfec78f",
+   "title": "AI搜索产品运营实习生 - TikTok Shop",
+   "apply_url": "https://www.shixiseng.com/intern/inn_25tdws7frkcx",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "social",
+   "semi_technical": false,
+   "company": {
+    "name": "字节跳动",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-20",
+   "deadline": "2027-02-11",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "6个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": -1.0
+  },
+  {
+   "id": "45b1faf2c920",
+   "title": "创新产品增长运营实习生-内容方向",
+   "apply_url": "https://www.shixiseng.com/intern/inn_phjvcmcw4b9p",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "小红书",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-18",
+   "deadline": "2027-10-10",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": -1.7
+  },
+  {
+   "id": "02c65f3f6932",
+   "title": "创新产品海外内容增长运营实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_cazludnzwd5q",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "小红书",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-17",
+   "deadline": "2027-10-10",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "6个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": -2.0
+  },
+  {
+   "id": "29b9e2815971",
+   "title": "AI工具产品实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_cnwxsnbadkoo",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "pm",
+   "semi_technical": false,
+   "company": {
+    "name": "百度",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-29",
+   "deadline": "2027-01-01",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "200-300/天",
+    "min": 200.0,
+    "max": 300.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": -3.3
+  },
+  {
+   "id": "cfa33d53002a",
+   "title": "创新产品增长运营实习生（海外留学生优先）可线上",
+   "apply_url": "https://www.shixiseng.com/intern/inn_awzjvczokiyt",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "小红书",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-11",
+   "deadline": "2027-10-10",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": -4.0
+  },
+  {
+   "id": "6fb076d50e71",
+   "title": "海外AI创意增长实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_gjska3w8mfxe",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "深圳",
+   "lane": "china_onsite",
+   "china_city": "深圳",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "美图公司",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-27",
+   "deadline": "2027-01-13",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "180-200/天",
+    "min": 180.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "5个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": -4.0
+  },
+  {
+   "id": "d982c4e80cea",
+   "title": "海外AI视频广告设计实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_8kuecubearp2",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "北京陌陌信息技术有限公司",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-26",
+   "deadline": "2027-08-12",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "180-200/天",
+    "min": 180.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "3天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": -4.3
+  },
+  {
+   "id": "4baca62c7b7d",
+   "title": "产品实习生｜海外 AI 社交",
+   "apply_url": "https://www.shixiseng.com/intern/inn_idctl6bj1tki",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "pm",
+   "semi_technical": false,
+   "company": {
+    "name": "小红书",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-09",
+   "deadline": "2027-10-10",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": -4.7,
+   "also_cities": [
+    "北京"
+   ]
+  },
+  {
+   "id": "c538bea4b415",
+   "title": "AI创作工具（音剪AI）产品运营实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_waww4jp3dfok",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "喜马拉雅",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-07-03",
+   "deadline": "2027-03-04",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-180/天",
+    "min": 150.0,
+    "max": 180.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "6个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": -5.0
+  },
+  {
+   "id": "09c662c95c51",
+   "title": "AIGC实习生(J11929)",
+   "apply_url": "https://www.shixiseng.com/intern/inn_uf8mq2glhz1b",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海",
+   "lane": "china_onsite",
+   "china_city": "上海",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "喜马拉雅",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-05-11",
+   "deadline": "2027-03-04",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-180/天",
+    "min": 150.0,
+    "max": 180.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "zombie",
+   "score": -5.0
+  },
+  {
+   "id": "6cb0fbf38a1a",
+   "title": "【微博AI垂类运营】实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_8lwoipgm3sp6",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "新浪微博",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2025-12-04",
+   "deadline": "2027-04-02",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "80-100/天",
+    "min": 80.0,
+    "max": 100.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "zombie",
+   "score": -5.0
+  },
+  {
+   "id": "7f16b74669f7",
+   "title": "AIGC制作实习生(A201734)",
+   "apply_url": "https://www.shixiseng.com/intern/inn_coloj8snhmit",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "爱奇艺",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-09",
+   "deadline": "2027-02-19",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "180-250/天",
+    "min": 180.0,
+    "max": 250.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": -5.0
+  },
+  {
+   "id": "1878d70edccb",
+   "title": "百度AI搜索产品运营实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_ohvoq4lepb2m",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "百度",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2025-09-02",
+   "deadline": "2027-01-01",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "120-180/天",
+    "min": 120.0,
+    "max": 180.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "6个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "zombie",
+   "score": -5.0
+  },
+  {
+   "id": "9989f06c259e",
+   "title": "AI产品实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_jem097e8yksq",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "pm",
+   "semi_technical": false,
+   "company": {
+    "name": "百度",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-03-17",
+   "deadline": "2027-01-01",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "250-300/天",
+    "min": 250.0,
+    "max": 300.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "zombie",
+   "score": -5.0
+  },
+  {
+   "id": "2ce032c181e8",
+   "title": "AIGC产品实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_sbro47b0kahv",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "pm",
+   "semi_technical": false,
+   "company": {
+    "name": "百度",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-14",
+   "deadline": "2027-01-01",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "200-400/天",
+    "min": 200.0,
+    "max": 400.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "6个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": -5.0
+  },
+  {
+   "id": "207294cdbeb8",
+   "title": "文旅AIGC实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_seocbczjfmyb",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "marketing",
+   "semi_technical": false,
+   "company": {
+    "name": "百度",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-08-31",
+   "deadline": "2027-01-01",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "150-250/天",
+    "min": 150.0,
+    "max": 250.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "4个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": -5.0
+  },
+  {
+   "id": "a94b7323821e",
+   "title": "海外AI营销实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_txp9i7zmh5tp",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "marketing",
+   "semi_technical": false,
+   "company": {
+    "name": "网易有道",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-08",
+   "deadline": "2027-01-06",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "120/天",
+    "min": 120.0,
+    "max": 120.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": -5.0
+  },
+  {
+   "id": "21bce38592f9",
+   "title": "增长内容实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_l9vkm7dzigyw",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "网易有道",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-14",
+   "deadline": "2027-01-06",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "120/天",
+    "min": 120.0,
+    "max": 120.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": -5.0
+  },
+  {
+   "id": "c772fd40c9d0",
+   "title": "AI原生网站产品运营实习生岗位JD",
+   "apply_url": "https://www.shixiseng.com/intern/inn_f2mjmspvjzye",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "途家网",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-10-16",
+   "deadline": "2027-03-18",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-23",
+   "pay": {
+    "text": "180-200/天",
+    "min": 180.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": -5.0
+  }
+ ]
+}
