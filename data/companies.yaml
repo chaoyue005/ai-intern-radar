@@ -5,16 +5,16 @@
 
 - {name: FORMAS.AI, site: formas.ai, chinese_team: false, apply_email: careers@formas.ai,
    funding: {status: verified, round: Pre-seed, amount_usd: 3980000, lead: Vertex}}
-- {name: Simular, site: simular.ai, ats: {type: ashby, slug: simular},
+- {name: Simular, one_liner_zh: 能像人一样操作电脑的 AI 智能体, site: simular.ai, ats: {type: ashby, slug: simular},
    funding: {status: verified, round: Series A, amount_usd: 21500000, lead: Felicis}}
-- {name: NemoVideo, site: nemovideo.com, chinese_team: true,
+- {name: NemoVideo, one_liner_zh: AI 视频剪辑智能体，面向海外创作者, site: nemovideo.com, chinese_team: true,
    funding: {status: verified, amount_usd: 10000000, lead: IDG}}
-- {name: One2X（Medeo）, site: medeo.app, chinese_team: true, aliases: [One2X, Medeo],
+- {name: One2X（Medeo）, one_liner_zh: AI 视频生成工具 Medeo，出海产品, site: medeo.app, chinese_team: true, aliases: [One2X, Medeo],
    funding: {status: verified, round: Series A, amount_usd: 23000000}}
 - {name: 词擎聚联, chinese_team: true, funding: {status: self_reported}}
-- {name: 爱诗科技 PixVerse, chinese_team: true, aliases: [爱诗, PixVerse], notable: true, funding: {status: unverified}}
+- {name: 爱诗科技 PixVerse, one_liner_zh: AI 视频生成 PixVerse, site: pixverse.ai, chinese_team: true, aliases: [爱诗, PixVerse], notable: true, funding: {status: unverified}}
 - {name: VAST（Tripo）, chinese_team: true, aliases: [Tripo], notable: true, funding: {status: unverified}}
-- {name: 即刻, chinese_team: true, notable: true, funding: {status: unverified}}
+- {name: 即刻, one_liner_zh: 兴趣社区 App, site: okjike.com, chinese_team: true, notable: true, funding: {status: unverified}}
 - {name: Elys（自然选择）, chinese_team: true, aliases: [自然选择, Elys], funding: {status: unverified}}
 - {name: Metix AI, chinese_team: true, funding: {status: unverified}}
 - {name: 麦汐, chinese_team: true, funding: {status: unverified}}
@@ -29,82 +29,82 @@
 - {name: 冰创未来, blocked: 自称不需要融资}
 
 # —— 海外 AI 公司（ATS 已验证可访问，2026-11-23） ——
-- {name: Meshy, site: meshy.ai, ats: {type: ashby, slug: meshy}, chinese_team: true, notable: true, funding: {status: unverified}}
-- {name: OpenArt, site: openart.ai, ats: {type: ashby, slug: openart}, chinese_team: true, funding: {status: unverified}}
-- {name: Viggle, site: viggle.ai, ats: {type: ashby, slug: viggle}, chinese_team: true, funding: {status: unverified}}
-- {name: OpusClip, site: opus.pro, ats: {type: ashby, slug: opusclip}, chinese_team: true, notable: true, funding: {status: unverified}}
-- {name: Creatify, site: creatify.ai, ats: {type: ashby, slug: creatify}, chinese_team: true, funding: {status: unverified}}
-- {name: HeyGen, site: heygen.com, ats: {type: greenhouse, slug: heygen}, chinese_team: true, notable: true, funding: {status: unverified}}
-- {name: Plaud, site: plaud.ai, ats: {type: ashby, slug: plaud}, chinese_team: true, notable: true, funding: {status: unverified}}
-- {name: Genspark, site: genspark.ai, ats: {type: ashby, slug: genspark}, chinese_team: true, notable: true, funding: {status: unverified}}
-- {name: Agentio, ats: {type: ashby, slug: agentio}, funding: {status: unverified}}
+- {name: Meshy, one_liner_zh: AI 3D 模型生成, site: meshy.ai, ats: {type: ashby, slug: meshy}, chinese_team: true, notable: true, funding: {status: unverified}}
+- {name: OpenArt, one_liner_zh: AI 图像与视频创作平台, site: openart.ai, ats: {type: ashby, slug: openart}, chinese_team: true, funding: {status: unverified}}
+- {name: Viggle, one_liner_zh: AI 角色动画视频生成, site: viggle.ai, ats: {type: ashby, slug: viggle}, chinese_team: true, funding: {status: unverified}}
+- {name: OpusClip, one_liner_zh: AI 长视频一键切成短视频, site: opus.pro, ats: {type: ashby, slug: opusclip}, chinese_team: true, notable: true, funding: {status: unverified}}
+- {name: Creatify, one_liner_zh: AI 生成视频广告, site: creatify.ai, ats: {type: ashby, slug: creatify}, chinese_team: true, funding: {status: unverified}}
+- {name: HeyGen, one_liner_zh: AI 数字人视频, site: heygen.com, ats: {type: greenhouse, slug: heygen}, chinese_team: true, notable: true, funding: {status: unverified}}
+- {name: Plaud, one_liner_zh: AI 录音笔与会议纪要, site: plaud.ai, ats: {type: ashby, slug: plaud}, chinese_team: true, notable: true, funding: {status: unverified}}
+- {name: Genspark, one_liner_zh: AI 智能体搜索与办公, site: genspark.ai, ats: {type: ashby, slug: genspark}, chinese_team: true, notable: true, funding: {status: unverified}}
+- {name: Agentio, one_liner_zh: 创作者广告投放平台, site: agentio.com, ats: {type: ashby, slug: agentio}, funding: {status: unverified}}
 - {name: Known, ats: {type: ashby, slug: known}, funding: {status: unverified}}
-- {name: Rilla, ats: {type: ashby, slug: rilla}, funding: {status: unverified}}
-- {name: Etched, ats: {type: ashby, slug: etched}, notable: true, funding: {status: unverified}}
-- {name: Together AI, ats: {type: greenhouse, slug: togetherai}, notable: true, funding: {status: unverified}}
-- {name: lemlist, ats: {type: ashby, slug: lemlist}, funding: {status: unverified}}
-- {name: ElevenLabs, ats: {type: ashby, slug: elevenlabs}, notable: true, funding: {status: unverified}}
-- {name: Sierra, ats: {type: ashby, slug: sierra}, notable: true, funding: {status: unverified}}
-- {name: Mercor, ats: {type: ashby, slug: mercor}, notable: true, funding: {status: unverified}}
-- {name: Pika, ats: {type: ashby, slug: pika}, notable: true, funding: {status: unverified}}
-- {name: Tavus, ats: {type: ashby, slug: tavus}, funding: {status: unverified}}
-- {name: Cursor, ats: {type: ashby, slug: cursor}, notable: true, funding: {status: unverified}}
-- {name: Perplexity, ats: {type: ashby, slug: perplexity}, notable: true, funding: {status: unverified}}
-- {name: Runway, ats: {type: ashby, slug: runway}, notable: true, funding: {status: unverified}}
-- {name: Suno, ats: {type: ashby, slug: suno}, notable: true, funding: {status: unverified}}
-- {name: Gamma, ats: {type: ashby, slug: gamma}, notable: true, funding: {status: unverified}}
-- {name: Lovable, ats: {type: ashby, slug: lovable}, notable: true, funding: {status: unverified}}
-- {name: Granola, ats: {type: ashby, slug: granola}, notable: true, funding: {status: unverified}}
-- {name: Krea, ats: {type: ashby, slug: krea}, funding: {status: unverified}}
-- {name: Ideogram, ats: {type: ashby, slug: ideogram}, funding: {status: unverified}}
-- {name: Hedra, ats: {type: ashby, slug: hedra}, funding: {status: unverified}}
-- {name: Synthesia, ats: {type: ashby, slug: synthesia}, notable: true, funding: {status: unverified}}
-- {name: Character.AI, ats: {type: ashby, slug: character}, notable: true, funding: {status: unverified}}
-- {name: Cartesia, ats: {type: ashby, slug: cartesia}, funding: {status: unverified}}
-- {name: Vapi, ats: {type: ashby, slug: vapi}, funding: {status: unverified}}
-- {name: Anthropic, ats: {type: greenhouse, slug: anthropic}, notable: true, funding: {status: unverified}}
-- {name: OpenAI, ats: {type: ashby, slug: openai}, notable: true, funding: {status: unverified}}
-- {name: Scale AI, ats: {type: greenhouse, slug: scaleai}, notable: true, funding: {status: unverified}}
-- {name: Harvey, ats: {type: ashby, slug: harvey}, notable: true, funding: {status: unverified}}
-- {name: Notion, ats: {type: ashby, slug: notion}, notable: true, funding: {status: unverified}}
-- {name: Replit, ats: {type: ashby, slug: replit}, notable: true, funding: {status: unverified}}
-- {name: Decagon, ats: {type: ashby, slug: decagon}, notable: true, funding: {status: unverified}}
-- {name: Writer, ats: {type: ashby, slug: writer}, notable: true, funding: {status: unverified}}
-- {name: Descript, ats: {type: greenhouse, slug: descript}, notable: true, funding: {status: unverified}}
-- {name: Abridge, ats: {type: ashby, slug: abridge}, notable: true, funding: {status: unverified}}
-- {name: Cohere, ats: {type: ashby, slug: cohere}, notable: true, funding: {status: unverified}}
-- {name: Cognition, ats: {type: ashby, slug: cognition}, notable: true, funding: {status: unverified}}
-- {name: Physical Intelligence, ats: {type: ashby, slug: physicalintelligence}, notable: true, funding: {status: unverified}}
-- {name: n8n, ats: {type: ashby, slug: n8n}, notable: true, funding: {status: unverified}}
-- {name: Sesame, ats: {type: ashby, slug: sesame}, funding: {status: unverified}}
-- {name: Deepgram, ats: {type: ashby, slug: deepgram}, funding: {status: unverified}}
-- {name: AssemblyAI, ats: {type: greenhouse, slug: assemblyai}, funding: {status: unverified}}
-- {name: Speechify, ats: {type: greenhouse, slug: speechify}, funding: {status: unverified}}
-- {name: Otter.ai, ats: {type: greenhouse, slug: otter}, funding: {status: unverified}}
-- {name: Typeface, ats: {type: greenhouse, slug: typeface}, funding: {status: unverified}}
-- {name: Attio, ats: {type: ashby, slug: attio}, funding: {status: unverified}}
-- {name: Julius AI, ats: {type: ashby, slug: julius}, funding: {status: unverified}}
-- {name: Elicit, ats: {type: ashby, slug: elicit}, funding: {status: unverified}}
-- {name: Bland AI, ats: {type: ashby, slug: bland}, funding: {status: unverified}}
-- {name: LangChain, ats: {type: ashby, slug: langchain}, notable: true, funding: {status: unverified}}
-- {name: Modal, ats: {type: ashby, slug: modal}, funding: {status: unverified}}
-- {name: Baseten, ats: {type: ashby, slug: baseten}, funding: {status: unverified}}
-- {name: Midjourney, ats: {type: ashby, slug: midjourney}, notable: true, funding: {status: unverified}}
-- {name: ManyChat, ats: {type: ashby, slug: manychat}, funding: {status: unverified}}
+- {name: Rilla, one_liner_zh: AI 销售对话分析, site: rilla.com, ats: {type: ashby, slug: rilla}, funding: {status: unverified}}
+- {name: Etched, one_liner_zh: 专用 AI 推理芯片, site: etched.com, ats: {type: ashby, slug: etched}, notable: true, funding: {status: unverified}}
+- {name: Together AI, one_liner_zh: 开源大模型云平台, site: together.ai, ats: {type: greenhouse, slug: togetherai}, notable: true, funding: {status: unverified}}
+- {name: lemlist, one_liner_zh: 销售外联自动化, site: lemlist.com, ats: {type: ashby, slug: lemlist}, funding: {status: unverified}}
+- {name: ElevenLabs, one_liner_zh: AI 语音合成与配音, site: elevenlabs.io, ats: {type: ashby, slug: elevenlabs}, notable: true, funding: {status: unverified}}
+- {name: Sierra, one_liner_zh: 企业 AI 客服智能体, site: sierra.ai, ats: {type: ashby, slug: sierra}, notable: true, funding: {status: unverified}}
+- {name: Mercor, one_liner_zh: AI 招聘与专家网络, site: mercor.com, ats: {type: ashby, slug: mercor}, notable: true, funding: {status: unverified}}
+- {name: Pika, one_liner_zh: AI 视频生成, site: pika.art, ats: {type: ashby, slug: pika}, notable: true, funding: {status: unverified}}
+- {name: Tavus, one_liner_zh: AI 数字人视频与对话, site: tavus.io, ats: {type: ashby, slug: tavus}, funding: {status: unverified}}
+- {name: Cursor, one_liner_zh: AI 编程编辑器, site: cursor.com, ats: {type: ashby, slug: cursor}, notable: true, funding: {status: unverified}}
+- {name: Perplexity, one_liner_zh: AI 搜索引擎, site: perplexity.ai, ats: {type: ashby, slug: perplexity}, notable: true, funding: {status: unverified}}
+- {name: Runway, one_liner_zh: AI 视频生成与编辑, site: runwayml.com, ats: {type: ashby, slug: runway}, notable: true, funding: {status: unverified}}
+- {name: Suno, one_liner_zh: AI 音乐生成, site: suno.com, ats: {type: ashby, slug: suno}, notable: true, funding: {status: unverified}}
+- {name: Gamma, one_liner_zh: AI 生成演示文稿与网页, site: gamma.app, ats: {type: ashby, slug: gamma}, notable: true, funding: {status: unverified}}
+- {name: Lovable, one_liner_zh: 用对话生成网站和应用, site: lovable.dev, ats: {type: ashby, slug: lovable}, notable: true, funding: {status: unverified}}
+- {name: Granola, one_liner_zh: AI 会议笔记, site: granola.ai, ats: {type: ashby, slug: granola}, notable: true, funding: {status: unverified}}
+- {name: Krea, one_liner_zh: AI 设计与图像创作, site: krea.ai, ats: {type: ashby, slug: krea}, funding: {status: unverified}}
+- {name: Ideogram, one_liner_zh: AI 图像生成，擅长文字排版, site: ideogram.ai, ats: {type: ashby, slug: ideogram}, funding: {status: unverified}}
+- {name: Hedra, one_liner_zh: AI 角色视频生成, site: hedra.com, ats: {type: ashby, slug: hedra}, funding: {status: unverified}}
+- {name: Synthesia, one_liner_zh: AI 数字人视频，企业培训, site: synthesia.io, ats: {type: ashby, slug: synthesia}, notable: true, funding: {status: unverified}}
+- {name: Character.AI, one_liner_zh: AI 角色聊天, site: character.ai, ats: {type: ashby, slug: character}, notable: true, funding: {status: unverified}}
+- {name: Cartesia, one_liner_zh: 实时 AI 语音模型, site: cartesia.ai, ats: {type: ashby, slug: cartesia}, funding: {status: unverified}}
+- {name: Vapi, one_liner_zh: AI 语音智能体开发平台, site: vapi.ai, ats: {type: ashby, slug: vapi}, funding: {status: unverified}}
+- {name: Anthropic, one_liner_zh: Claude 大模型公司, site: anthropic.com, ats: {type: greenhouse, slug: anthropic}, notable: true, funding: {status: unverified}}
+- {name: OpenAI, one_liner_zh: ChatGPT 大模型公司, site: openai.com, ats: {type: ashby, slug: openai}, notable: true, funding: {status: unverified}}
+- {name: Scale AI, one_liner_zh: AI 训练数据与评测, site: scale.com, ats: {type: greenhouse, slug: scaleai}, notable: true, funding: {status: unverified}}
+- {name: Harvey, one_liner_zh: 法律行业 AI, site: harvey.ai, ats: {type: ashby, slug: harvey}, notable: true, funding: {status: unverified}}
+- {name: Notion, one_liner_zh: AI 笔记与团队协作, site: notion.so, ats: {type: ashby, slug: notion}, notable: true, funding: {status: unverified}}
+- {name: Replit, one_liner_zh: AI 编程与应用搭建, site: replit.com, ats: {type: ashby, slug: replit}, notable: true, funding: {status: unverified}}
+- {name: Decagon, one_liner_zh: 企业 AI 客服, site: decagon.ai, ats: {type: ashby, slug: decagon}, notable: true, funding: {status: unverified}}
+- {name: Writer, one_liner_zh: 企业 AI 写作平台, site: writer.com, ats: {type: ashby, slug: writer}, notable: true, funding: {status: unverified}}
+- {name: Descript, one_liner_zh: AI 音视频剪辑, site: descript.com, ats: {type: greenhouse, slug: descript}, notable: true, funding: {status: unverified}}
+- {name: Abridge, one_liner_zh: 医疗对话 AI 记录, site: abridge.com, ats: {type: ashby, slug: abridge}, notable: true, funding: {status: unverified}}
+- {name: Cohere, one_liner_zh: 企业大模型, site: cohere.com, ats: {type: ashby, slug: cohere}, notable: true, funding: {status: unverified}}
+- {name: Cognition, one_liner_zh: AI 软件工程师 Devin, site: cognition.ai, ats: {type: ashby, slug: cognition}, notable: true, funding: {status: unverified}}
+- {name: Physical Intelligence, one_liner_zh: 机器人通用大模型, site: physicalintelligence.company, ats: {type: ashby, slug: physicalintelligence}, notable: true, funding: {status: unverified}}
+- {name: n8n, one_liner_zh: AI 工作流自动化, site: n8n.io, ats: {type: ashby, slug: n8n}, notable: true, funding: {status: unverified}}
+- {name: Sesame, one_liner_zh: AI 语音伴侣, site: sesame.com, ats: {type: ashby, slug: sesame}, funding: {status: unverified}}
+- {name: Deepgram, one_liner_zh: AI 语音识别, site: deepgram.com, ats: {type: ashby, slug: deepgram}, funding: {status: unverified}}
+- {name: AssemblyAI, one_liner_zh: AI 语音识别 API, site: assemblyai.com, ats: {type: greenhouse, slug: assemblyai}, funding: {status: unverified}}
+- {name: Speechify, one_liner_zh: AI 文字转语音朗读, site: speechify.com, ats: {type: greenhouse, slug: speechify}, funding: {status: unverified}}
+- {name: Otter.ai, one_liner_zh: AI 会议记录, site: otter.ai, ats: {type: greenhouse, slug: otter}, funding: {status: unverified}}
+- {name: Typeface, one_liner_zh: 企业 AI 营销内容, site: typeface.ai, ats: {type: greenhouse, slug: typeface}, funding: {status: unverified}}
+- {name: Attio, one_liner_zh: AI 原生 CRM, site: attio.com, ats: {type: ashby, slug: attio}, funding: {status: unverified}}
+- {name: Julius AI, one_liner_zh: AI 数据分析助手, site: julius.ai, ats: {type: ashby, slug: julius}, funding: {status: unverified}}
+- {name: Elicit, one_liner_zh: AI 科研文献助手, site: elicit.com, ats: {type: ashby, slug: elicit}, funding: {status: unverified}}
+- {name: Bland AI, one_liner_zh: AI 电话客服, site: bland.ai, ats: {type: ashby, slug: bland}, funding: {status: unverified}}
+- {name: LangChain, one_liner_zh: 大模型应用开发框架, site: langchain.com, ats: {type: ashby, slug: langchain}, notable: true, funding: {status: unverified}}
+- {name: Modal, one_liner_zh: AI 云计算平台, site: modal.com, ats: {type: ashby, slug: modal}, funding: {status: unverified}}
+- {name: Baseten, one_liner_zh: AI 模型部署平台, site: baseten.co, ats: {type: ashby, slug: baseten}, funding: {status: unverified}}
+- {name: Midjourney, one_liner_zh: AI 绘画, site: midjourney.com, ats: {type: ashby, slug: midjourney}, notable: true, funding: {status: unverified}}
+- {name: ManyChat, one_liner_zh: 社媒私信自动化营销, site: manychat.com, ats: {type: ashby, slug: manychat}, funding: {status: unverified}}
 
 # —— 大厂（不优先：乙档、排序靠后、可一键隐藏） ——
-- {name: 字节跳动, big_tech: true, aliases: [ByteDance, TikTok, 抖音]}
-- {name: 百度, big_tech: true}
-- {name: 小红书, big_tech: true}
-- {name: 美团, big_tech: true}
-- {name: 哔哩哔哩, big_tech: true, aliases: [B站, bilibili]}
-- {name: 网易, big_tech: true}
-- {name: 网易有道, big_tech: true}
-- {name: 爱奇艺, big_tech: true}
-- {name: 好未来, big_tech: true}
-- {name: 美图公司, big_tech: true, aliases: [美图]}
-- {name: 新浪微博, big_tech: true, aliases: [微博]}
-- {name: 喜马拉雅, big_tech: true}
+- {name: 字节跳动, one_liner_zh: 抖音、TikTok 母公司, site: bytedance.com, big_tech: true, aliases: [ByteDance, TikTok, 抖音]}
+- {name: 百度, one_liner_zh: 搜索与文心大模型, site: baidu.com, big_tech: true}
+- {name: 小红书, one_liner_zh: 生活方式社区, site: xiaohongshu.com, big_tech: true}
+- {name: 美团, one_liner_zh: 本地生活平台, site: meituan.com, big_tech: true}
+- {name: 哔哩哔哩, one_liner_zh: 视频社区, site: bilibili.com, big_tech: true, aliases: [B站, bilibili]}
+- {name: 网易, one_liner_zh: 游戏与互联网, site: 163.com, big_tech: true}
+- {name: 网易有道, one_liner_zh: AI 教育, site: youdao.com, big_tech: true}
+- {name: 爱奇艺, one_liner_zh: 视频平台, site: iqiyi.com, big_tech: true}
+- {name: 好未来, one_liner_zh: 教育科技, site: 100tal.com, big_tech: true}
+- {name: 美图公司, one_liner_zh: AI 影像工具, site: meitu.com, big_tech: true, aliases: [美图]}
+- {name: 新浪微博, one_liner_zh: 社交媒体, site: weibo.com, big_tech: true, aliases: [微博]}
+- {name: 喜马拉雅, one_liner_zh: 音频平台, site: ximalaya.com, big_tech: true}
 - {name: 得物App, big_tech: true, aliases: [得物]}
 - {name: 北京陌陌信息技术有限公司, big_tech: true, aliases: [陌陌]}
 - {name: 阿里巴巴, big_tech: true, aliases: [阿里, 淘天, 通义]}

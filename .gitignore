@@ -7,3 +7,4 @@ web/dist/
 data/cache/
 .DS_Store
 web/public/data/
+.claude/

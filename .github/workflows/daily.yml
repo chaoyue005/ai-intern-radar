@@ -23,8 +23,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 40
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with: { python-version: "3.12", cache: pip }
       - run: pip install -r requirements.txt
       - name: 测试过滤规则
@@ -50,7 +50,7 @@ jobs:
           git add data
           git diff --cached --quiet || git commit -m "data: 每日更新 $(date -u +%F)"
           git pull --rebase && git push
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with: { node-version: 22, cache: npm, cache-dependency-path: web/package-lock.json }
       - name: 构建网站
         working-directory: web
@@ -58,7 +58,7 @@ jobs:
           npm ci
           mkdir -p public/data && cp ../data/jobs.json ../data/changes.json public/data/
           npm run build
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v4
         with: { path: web/dist }
 
   deploy:

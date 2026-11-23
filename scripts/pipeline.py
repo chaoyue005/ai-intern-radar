@@ -17,6 +17,7 @@ import yaml
 from .common import (DATA, classify, company_index, criteria, dump_json, job_id, load_json,
                      norm_company, now_iso, sources, today)
 from .enrich import enrich
+from .verify import check_many
 from .fetchers import ats, eleduck, funding, hn, shixiseng, yc
 
 FETCHERS = {"ats": ats, "yc": yc, "hn": hn, "shixiseng": shixiseng, "eleduck": eleduck}
@@ -123,7 +124,7 @@ def _apply_ai(job: dict, cls: dict) -> None:
 
 
 def freshness_status(posted_at, first_seen, deadline, last_verified_at) -> str:
-    """过截止日 → closed；超过 180 天 → zombie；超过 60 天且今天没核实 → stale_unverified。"""
+    """过截止日 → closed；超过 180 天 → zombie；超过 60 天且今天没有确认仍在招 → stale_unverified（网站不显示）。"""
     fc = criteria()["freshness"]
     ref = _parse_date(posted_at) or _parse_date(first_seen)
     age = (date.today() - ref).days if ref else 0
@@ -165,6 +166,15 @@ def build(raw: list[dict], fetched_sources: set[str], log: Log, do_enrich: bool)
     for m in manual:
         m.setdefault("apply_method", "ats")
         m["manual"] = True
+    # 每天重新打开人工收录岗位的链接，确认仍在招聘
+    live = check_many([m.get("apply_url", "") for m in manual if m.get("status") != "closed"])
+    for m in manual:
+        ok = live.get(m.get("apply_url", ""))
+        if ok is False:
+            m["status"] = "closed"
+            log("manual_closed", f"{m['company']} {m['title']}")
+        elif ok is True:
+            m["verified_at"] = today()
     all_raw = manual + raw
 
     # 去重：同一投递链接只保留一条（人工条目优先）
@@ -270,7 +280,7 @@ def build(raw: list[dict], fetched_sources: set[str], log: Log, do_enrich: bool)
         merged.append(r)
     out = merged
     out.sort(key=lambda r: (-r["score"], r["company"]["name"]))
-    visible = [r for r in out if r["status"] in ("open", "stale_unverified")]
+    visible = [r for r in out if r["status"] == "open"]
     stats = {
         "updated_at": now_iso(), "total": len(visible),
         "remote": sum(r["lane"] == "remote" for r in visible),

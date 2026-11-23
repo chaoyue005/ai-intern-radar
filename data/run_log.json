@@ -1,14 +1,10 @@
 {
- "at": "2026-11-23T15:12:11+00:00",
+ "at": "2026-11-23T15:54:30+00:00",
  "items": [
-  {
-   "key": "enrich_skipped",
-   "value": "130 条（未设置 ANTHROPIC_API_KEY）"
-  },
   {
    "key": "stats",
    "value": {
-    "updated_at": "2026-11-23T15:12:11+00:00",
+    "updated_at": "2026-11-23T15:54:30+00:00",
     "total": 82,
     "remote": 24,
     "china_onsite": 58,
@@ -20,7 +16,7 @@
   },
   {
    "key": "seconds",
-   "value": 0
+   "value": 5
   }
  ]
 }

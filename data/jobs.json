@@ -1,6 +1,6 @@
 {
  "stats": {
-  "updated_at": "2026-11-23T15:12:11+00:00",
+  "updated_at": "2026-11-23T15:54:30+00:00",
   "total": 82,
   "remote": 24,
   "china_onsite": 58,
@@ -26,7 +26,7 @@
    "company": {
     "name": "NemoVideo",
     "site": "nemovideo.com",
-    "one_liner": null,
+    "one_liner": "AI 视频剪辑智能体，面向海外创作者",
     "chinese_team": true,
     "funding": {
      "status": "verified",
@@ -43,7 +43,7 @@
    "posted_at": null,
    "deadline": "2026-11-30",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-20",
+   "last_verified_at": "2026-11-23",
    "pay": {
     "text": null
    },
@@ -83,7 +83,7 @@
    "company": {
     "name": "NemoVideo",
     "site": "nemovideo.com",
-    "one_liner": "",
+    "one_liner": "AI 视频剪辑智能体，面向海外创作者",
     "chinese_team": true,
     "funding": {
      "status": "verified",
@@ -145,7 +145,7 @@
    "company": {
     "name": "NemoVideo",
     "site": "nemovideo.com",
-    "one_liner": "",
+    "one_liner": "AI 视频剪辑智能体，面向海外创作者",
     "chinese_team": true,
     "funding": {
      "status": "verified",
@@ -204,7 +204,7 @@
    "company": {
     "name": "One2X（Medeo）",
     "site": "medeo.app",
-    "one_liner": null,
+    "one_liner": "AI 视频生成工具 Medeo，出海产品",
     "chinese_team": true,
     "funding": {
      "status": "verified",
@@ -221,7 +221,7 @@
    "posted_at": null,
    "deadline": "2026-12-10",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-20",
+   "last_verified_at": "2026-11-23",
    "pay": {
     "text": "200-250/天",
     "min": 200.0,
@@ -265,7 +265,7 @@
    "company": {
     "name": "NemoVideo",
     "site": "nemovideo.com",
-    "one_liner": "",
+    "one_liner": "AI 视频剪辑智能体，面向海外创作者",
     "chinese_team": true,
     "funding": {
      "status": "verified",
@@ -327,7 +327,7 @@
    "company": {
     "name": "NemoVideo",
     "site": "nemovideo.com",
-    "one_liner": "",
+    "one_liner": "AI 视频剪辑智能体，面向海外创作者",
     "chinese_team": true,
     "funding": {
      "status": "verified",
@@ -386,7 +386,7 @@
    "company": {
     "name": "NemoVideo",
     "site": "nemovideo.com",
-    "one_liner": "",
+    "one_liner": "AI 视频剪辑智能体，面向海外创作者",
     "chinese_team": true,
     "funding": {
      "status": "verified",
@@ -445,7 +445,7 @@
    "company": {
     "name": "NemoVideo",
     "site": "nemovideo.com",
-    "one_liner": "",
+    "one_liner": "AI 视频剪辑智能体，面向海外创作者",
     "chinese_team": true,
     "funding": {
      "status": "verified",
@@ -504,7 +504,7 @@
    "company": {
     "name": "NemoVideo",
     "site": "nemovideo.com",
-    "one_liner": "",
+    "one_liner": "AI 视频剪辑智能体，面向海外创作者",
     "chinese_team": true,
     "funding": {
      "status": "verified",
@@ -563,7 +563,7 @@
    "company": {
     "name": "NemoVideo",
     "site": "nemovideo.com",
-    "one_liner": "",
+    "one_liner": "AI 视频剪辑智能体，面向海外创作者",
     "chinese_team": true,
     "funding": {
      "status": "verified",
@@ -1147,7 +1147,7 @@
    "company": {
     "name": "Simular",
     "site": "simular.ai",
-    "one_liner": null,
+    "one_liner": "能像人一样操作电脑的 AI 智能体",
     "chinese_team": false,
     "funding": {
      "status": "verified",
@@ -1165,7 +1165,7 @@
    "posted_at": null,
    "deadline": null,
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-20",
+   "last_verified_at": "2026-11-23",
    "pay": {
     "text": null
    },
@@ -1205,7 +1205,7 @@
    "company": {
     "name": "Simular",
     "site": "simular.ai",
-    "one_liner": null,
+    "one_liner": "能像人一样操作电脑的 AI 智能体",
     "chinese_team": false,
     "funding": {
      "status": "verified",
@@ -1223,7 +1223,7 @@
    "posted_at": null,
    "deadline": null,
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-20",
+   "last_verified_at": "2026-11-23",
    "pay": {
     "text": null
    },
@@ -1319,8 +1319,8 @@
    "semi_technical": false,
    "company": {
     "name": "网易",
-    "site": null,
-    "one_liner": "",
+    "site": "163.com",
+    "one_liner": "游戏与互联网",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -2532,8 +2532,8 @@
    "semi_technical": false,
    "company": {
     "name": "好未来",
-    "site": null,
-    "one_liner": "",
+    "site": "100tal.com",
+    "one_liner": "教育科技",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -2588,8 +2588,8 @@
    "semi_technical": false,
    "company": {
     "name": "好未来",
-    "site": null,
-    "one_liner": "",
+    "site": "100tal.com",
+    "one_liner": "教育科技",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -2644,8 +2644,8 @@
    "semi_technical": false,
    "company": {
     "name": "字节跳动",
-    "site": null,
-    "one_liner": "",
+    "site": "bytedance.com",
+    "one_liner": "抖音、TikTok 母公司",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -2700,8 +2700,8 @@
    "semi_technical": false,
    "company": {
     "name": "字节跳动",
-    "site": null,
-    "one_liner": "",
+    "site": "bytedance.com",
+    "one_liner": "抖音、TikTok 母公司",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -2756,8 +2756,8 @@
    "semi_technical": false,
    "company": {
     "name": "哔哩哔哩",
-    "site": null,
-    "one_liner": "",
+    "site": "bilibili.com",
+    "one_liner": "视频社区",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -2812,8 +2812,8 @@
    "semi_technical": false,
    "company": {
     "name": "网易有道",
-    "site": null,
-    "one_liner": "",
+    "site": "youdao.com",
+    "one_liner": "AI 教育",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -2868,8 +2868,8 @@
    "semi_technical": false,
    "company": {
     "name": "哔哩哔哩",
-    "site": null,
-    "one_liner": "",
+    "site": "bilibili.com",
+    "one_liner": "视频社区",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -2924,8 +2924,8 @@
    "semi_technical": false,
    "company": {
     "name": "哔哩哔哩",
-    "site": null,
-    "one_liner": "",
+    "site": "bilibili.com",
+    "one_liner": "视频社区",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -2980,8 +2980,8 @@
    "semi_technical": false,
    "company": {
     "name": "哔哩哔哩",
-    "site": null,
-    "one_liner": "",
+    "site": "bilibili.com",
+    "one_liner": "视频社区",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -3036,8 +3036,8 @@
    "semi_technical": false,
    "company": {
     "name": "美团",
-    "site": null,
-    "one_liner": "",
+    "site": "meituan.com",
+    "one_liner": "本地生活平台",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -3092,8 +3092,8 @@
    "semi_technical": false,
    "company": {
     "name": "字节跳动",
-    "site": null,
-    "one_liner": "",
+    "site": "bytedance.com",
+    "one_liner": "抖音、TikTok 母公司",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -3201,8 +3201,8 @@
    "semi_technical": false,
    "company": {
     "name": "字节跳动",
-    "site": null,
-    "one_liner": "",
+    "site": "bytedance.com",
+    "one_liner": "抖音、TikTok 母公司",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -3257,8 +3257,8 @@
    "semi_technical": false,
    "company": {
     "name": "字节跳动",
-    "site": null,
-    "one_liner": "",
+    "site": "bytedance.com",
+    "one_liner": "抖音、TikTok 母公司",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -3313,8 +3313,8 @@
    "semi_technical": false,
    "company": {
     "name": "爱奇艺",
-    "site": null,
-    "one_liner": "",
+    "site": "iqiyi.com",
+    "one_liner": "视频平台",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -3369,8 +3369,8 @@
    "semi_technical": false,
    "company": {
     "name": "百度",
-    "site": null,
-    "one_liner": "",
+    "site": "baidu.com",
+    "one_liner": "搜索与文心大模型",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -3425,8 +3425,8 @@
    "semi_technical": false,
    "company": {
     "name": "爱奇艺",
-    "site": null,
-    "one_liner": "",
+    "site": "iqiyi.com",
+    "one_liner": "视频平台",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -3481,8 +3481,8 @@
    "semi_technical": false,
    "company": {
     "name": "百度",
-    "site": null,
-    "one_liner": "",
+    "site": "baidu.com",
+    "one_liner": "搜索与文心大模型",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -3538,8 +3538,8 @@
    "semi_technical": false,
    "company": {
     "name": "百度",
-    "site": null,
-    "one_liner": "",
+    "site": "baidu.com",
+    "one_liner": "搜索与文心大模型",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -3594,8 +3594,8 @@
    "semi_technical": false,
    "company": {
     "name": "网易",
-    "site": null,
-    "one_liner": "",
+    "site": "163.com",
+    "one_liner": "游戏与互联网",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -3706,8 +3706,8 @@
    "semi_technical": false,
    "company": {
     "name": "小红书",
-    "site": null,
-    "one_liner": "",
+    "site": "xiaohongshu.com",
+    "one_liner": "生活方式社区",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -3762,8 +3762,8 @@
    "semi_technical": false,
    "company": {
     "name": "爱奇艺",
-    "site": null,
-    "one_liner": "",
+    "site": "iqiyi.com",
+    "one_liner": "视频平台",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -3818,8 +3818,8 @@
    "semi_technical": false,
    "company": {
     "name": "小红书",
-    "site": null,
-    "one_liner": "",
+    "site": "xiaohongshu.com",
+    "one_liner": "生活方式社区",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -3929,8 +3929,8 @@
    "semi_technical": false,
    "company": {
     "name": "字节跳动",
-    "site": null,
-    "one_liner": "",
+    "site": "bytedance.com",
+    "one_liner": "抖音、TikTok 母公司",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -3981,8 +3981,8 @@
    "semi_technical": false,
    "company": {
     "name": "小红书",
-    "site": null,
-    "one_liner": "",
+    "site": "xiaohongshu.com",
+    "one_liner": "生活方式社区",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -4033,8 +4033,8 @@
    "semi_technical": false,
    "company": {
     "name": "小红书",
-    "site": null,
-    "one_liner": "",
+    "site": "xiaohongshu.com",
+    "one_liner": "生活方式社区",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -4085,8 +4085,8 @@
    "semi_technical": false,
    "company": {
     "name": "百度",
-    "site": null,
-    "one_liner": "",
+    "site": "baidu.com",
+    "one_liner": "搜索与文心大模型",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -4141,8 +4141,8 @@
    "semi_technical": false,
    "company": {
     "name": "小红书",
-    "site": null,
-    "one_liner": "",
+    "site": "xiaohongshu.com",
+    "one_liner": "生活方式社区",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -4193,8 +4193,8 @@
    "semi_technical": false,
    "company": {
     "name": "美图公司",
-    "site": null,
-    "one_liner": "",
+    "site": "meitu.com",
+    "one_liner": "AI 影像工具",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -4305,8 +4305,8 @@
    "semi_technical": false,
    "company": {
     "name": "小红书",
-    "site": null,
-    "one_liner": "",
+    "site": "xiaohongshu.com",
+    "one_liner": "生活方式社区",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -4360,8 +4360,8 @@
    "semi_technical": false,
    "company": {
     "name": "喜马拉雅",
-    "site": null,
-    "one_liner": "",
+    "site": "ximalaya.com",
+    "one_liner": "音频平台",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -4416,8 +4416,8 @@
    "semi_technical": false,
    "company": {
     "name": "喜马拉雅",
-    "site": null,
-    "one_liner": "",
+    "site": "ximalaya.com",
+    "one_liner": "音频平台",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -4472,8 +4472,8 @@
    "semi_technical": false,
    "company": {
     "name": "新浪微博",
-    "site": null,
-    "one_liner": "",
+    "site": "weibo.com",
+    "one_liner": "社交媒体",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -4528,8 +4528,8 @@
    "semi_technical": false,
    "company": {
     "name": "爱奇艺",
-    "site": null,
-    "one_liner": "",
+    "site": "iqiyi.com",
+    "one_liner": "视频平台",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -4584,8 +4584,8 @@
    "semi_technical": false,
    "company": {
     "name": "百度",
-    "site": null,
-    "one_liner": "",
+    "site": "baidu.com",
+    "one_liner": "搜索与文心大模型",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -4640,8 +4640,8 @@
    "semi_technical": false,
    "company": {
     "name": "百度",
-    "site": null,
-    "one_liner": "",
+    "site": "baidu.com",
+    "one_liner": "搜索与文心大模型",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -4696,8 +4696,8 @@
    "semi_technical": false,
    "company": {
     "name": "百度",
-    "site": null,
-    "one_liner": "",
+    "site": "baidu.com",
+    "one_liner": "搜索与文心大模型",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -4752,8 +4752,8 @@
    "semi_technical": false,
    "company": {
     "name": "百度",
-    "site": null,
-    "one_liner": "",
+    "site": "baidu.com",
+    "one_liner": "搜索与文心大模型",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -4808,8 +4808,8 @@
    "semi_technical": false,
    "company": {
     "name": "网易有道",
-    "site": null,
-    "one_liner": "",
+    "site": "youdao.com",
+    "one_liner": "AI 教育",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -4864,8 +4864,8 @@
    "semi_technical": false,
    "company": {
     "name": "网易有道",
-    "site": null,
-    "one_liner": "",
+    "site": "youdao.com",
+    "one_liner": "AI 教育",
     "chinese_team": false,
     "funding": {
      "status": "unverified"

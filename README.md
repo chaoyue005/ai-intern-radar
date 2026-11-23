@@ -1,8 +1,8 @@
 <div align="center">
 
-# 📡 AI 实习雷达
+# AI 初创实习 · AIStartupIntern
 
-**专给非技术同学的 AI 初创实习清单 · 每天自动更新**
+**非技术同学进 AI 初创公司 · 每天核实在招的实习机会**
 
 只收录 **有融资的 AI 公司** 正在招的 **非技术实习**：增长、GTM、产品营销、内容、社媒、社区、运营、BD、AI 产品……
 每一条都标清楚：**能不能远程、卡不卡签证、公司融资靠不靠谱**。
@@ -25,7 +25,7 @@
 - 写着 Remote 的岗位，很多其实是 *Remote (US only)*；还有大量**过期、僵尸岗**。
 - 看不出公司**有没有融资、靠不靠谱**。
 
-所以我做了这个雷达：程序每天抓取官方招聘页，人工+AI 双重筛选，只留下**真正能投**的岗位。
+所以我做了这个网站：程序每天抓取官方招聘页，人工+AI 双重筛选，只留下**真正能投**的岗位。
 
 ## 收录标准
 
@@ -48,7 +48,7 @@
 | 浏览器人工巡检 | Boss 直聘、LinkedIn、X、JobsDB、即刻、牛客、Wellfound、脉脉、小红书 | 每天，人工审核后收录 |
 | 社区投稿 | 任何人都可以 [提交岗位](https://github.com/chaoyue005/ai-intern-radar/issues/new?template=submit-job.yml) | 审核后收录 |
 
-每天还会自动：重新核实远程/签证条件、标记超过 60 天未核实的岗位、隐藏超过 180 天的僵尸岗、生成「本周新增 / 下线」列表。
+每天还会自动：重新打开每个岗位链接确认仍在招聘；发布超过 60 天的岗位只有当天确认仍在招才显示；超过 180 天一律不显示；重新判断远程/签证条件；生成「本周新增 / 下线」列表。
 
 ## 网站功能
 
@@ -84,7 +84,7 @@ GitHub Actions（每天定时）
 
 ## English
 
-**AI Intern Radar** is a daily-updated list of **non-technical internships** (growth, GTM, product marketing, content, community, ops, BD, AI PM…) at **funded AI startups**, built for students who can't code but want to work in AI.
+**AIStartupIntern** is a daily-updated list of **non-technical internships** (growth, GTM, product marketing, content, community, ops, BD, AI PM…) at **funded AI startups**, built for students who can't code but want to work in AI.
 
 Every listing says whether it's **truly remote**, whether it **requires US work authorization**, and how **verifiable the company's funding** is. Data comes from official ATS boards (Ashby, Greenhouse, Lever), YC, Hacker News, Chinese platforms (Shixiseng, Boss Zhipin), and human-reviewed posts from LinkedIn and X. Unpaid, Web3, full-time and engineering roles are excluded.
 
