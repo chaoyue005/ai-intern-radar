@@ -44,51 +44,5 @@
     "round": "YC Winter 2018"
    }
   }
- },
- {
-  "company": "AfterQuery",
-  "title": "Strategic Projects Intern",
-  "apply_url": "https://www.ycombinator.com/companies/afterquery/jobs/Ep6eNax-strategic-projects-intern",
-  "apply_method": "yc",
-  "source": "yc",
-  "location": "San Francisco",
-  "description": "",
-  "visa": "US citizen/visa only",
-  "pay_text": "$90K - $90K",
-  "posted_ago": "9 months",
-  "employment_type": "intern",
-  "company_meta": {
-   "site": "https://afterquery.com",
-   "one_liner": "Applied research lab curating data solutions for foundation model…",
-   "batch": "Winter 2025",
-   "team_size": 30,
-   "funding": {
-    "status": "yc_only",
-    "round": "YC Winter 2025"
-   }
-  }
- },
- {
-  "company": "AfterQuery",
-  "title": "Technical Strategic Projects Intern",
-  "apply_url": "https://www.ycombinator.com/companies/afterquery/jobs/8NagVRQ-technical-strategic-projects-intern",
-  "apply_method": "yc",
-  "source": "yc",
-  "location": "San Francisco",
-  "description": "",
-  "visa": "US citizen/visa only",
-  "pay_text": "$90K",
-  "posted_ago": "9 months",
-  "employment_type": "intern",
-  "company_meta": {
-   "site": "https://afterquery.com",
-   "one_liner": "Applied research lab curating data solutions for foundation model…",
-   "batch": "Winter 2025",
-   "team_size": 30,
-   "funding": {
-    "status": "yc_only",
-    "round": "YC Winter 2025"
-   }
-  }
  }
 ]

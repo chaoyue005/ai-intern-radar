@@ -358,33 +358,12 @@
  },
  {
   "company": "Scale AI",
-  "title": "Finance Fellow - Human Frontier Collective (US, UK, & Canada)",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4565836005",
-  "source": "greenhouse",
-  "reasons": [
-   "us_only",
-   "region_limited"
-  ]
- },
- {
-  "company": "Scale AI",
-  "title": "Legal Fellow - Human Frontier Collective (US, UK, & Canada)",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4565834005",
-  "source": "greenhouse",
-  "reasons": [
-   "us_only",
-   "region_limited"
-  ]
- },
- {
-  "company": "Scale AI",
-  "title": "Machine Learning Fellow - Human Frontier Collective (US, UK, & Canada)",
+  "title": "Machine Learning Fellow - Human Frontier Collective",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4660340005",
   "source": "greenhouse",
   "reasons": [
    "technical",
-   "us_only",
-   "region_limited"
+   "overseas_onsite"
   ]
  },
  {
@@ -395,16 +374,6 @@
   "reasons": [
    "technical",
    "overseas_onsite"
-  ]
- },
- {
-  "company": "Scale AI",
-  "title": "Medical Fellow - Human Frontier Collective (US, UK, & Canada)",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4591782005",
-  "source": "greenhouse",
-  "reasons": [
-   "us_only",
-   "region_limited"
   ]
  },
  {
@@ -429,23 +398,22 @@
  },
  {
   "company": "Scale AI",
-  "title": "STEM Fellow - Human Frontier Collective (US, UK, & Canada)",
+  "title": "STEM Fellow - Human Frontier Collective",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4574113005",
   "source": "greenhouse",
   "reasons": [
    "technical",
-   "region_limited"
+   "overseas_onsite"
   ]
  },
  {
   "company": "Scale AI",
-  "title": "SWE Fellow - Human Frontier Collective (US, UK, & Canada)",
+  "title": "SWE Fellow - Human Frontier Collective",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4689947005",
   "source": "greenhouse",
   "reasons": [
    "technical",
-   "us_only",
-   "region_limited"
+   "overseas_onsite"
   ]
  },
  {
@@ -588,26 +556,6 @@
   ]
  },
  {
-  "company": "AfterQuery",
-  "title": "Strategic Projects Intern",
-  "url": "https://www.ycombinator.com/companies/afterquery/jobs/Ep6eNax-strategic-projects-intern",
-  "source": "yc",
-  "reasons": [
-   "overseas_onsite",
-   "us_only"
-  ]
- },
- {
-  "company": "AfterQuery",
-  "title": "Technical Strategic Projects Intern",
-  "url": "https://www.ycombinator.com/companies/afterquery/jobs/8NagVRQ-technical-strategic-projects-intern",
-  "source": "yc",
-  "reasons": [
-   "overseas_onsite",
-   "us_only"
-  ]
- },
- {
   "company": "United Risk",
   "title": "United Risk | Early-Career AI Engineers – Full-Stack, Data Science, Infrastructure/DevOps (10 openings) | New York, NY | HYBRID (2 days/week",
   "url": "https://news.ycombinator.com/item?id=50338822",
@@ -621,15 +569,6 @@
   "company": "玖玖造物",
   "title": "海外AI产品经理（Ai内容+UGC/2000房补）",
   "url": "https://www.shixiseng.com/intern/inn_i7cvtx7zuc3o",
-  "source": "shixiseng",
-  "reasons": [
-   "senior_or_fulltime"
-  ]
- },
- {
-  "company": "好未来",
-  "title": "增长产品经理（AIGC短视频内容生产方向）",
-  "url": "https://www.shixiseng.com/intern/inn_c4zfs6787nsl",
   "source": "shixiseng",
   "reasons": [
    "senior_or_fulltime"
@@ -892,6 +831,33 @@
   "title": "Executive in Residence, Cyber",
   "url": "https://jobs.ashbyhq.com/openai/6384df1b-c2e0-4265-ad9b-d4a7bca706d6",
   "source": "ashby",
+  "reasons": [
+   "overseas_onsite"
+  ]
+ },
+ {
+  "company": "Scale AI",
+  "title": "Finance Fellow - Human Frontier Collective",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4565836005",
+  "source": "greenhouse",
+  "reasons": [
+   "overseas_onsite"
+  ]
+ },
+ {
+  "company": "Scale AI",
+  "title": "Legal Fellow - Human Frontier Collective",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4565834005",
+  "source": "greenhouse",
+  "reasons": [
+   "overseas_onsite"
+  ]
+ },
+ {
+  "company": "Scale AI",
+  "title": "Medical Fellow - Human Frontier Collective",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4591782005",
+  "source": "greenhouse",
   "reasons": [
    "overseas_onsite"
   ]

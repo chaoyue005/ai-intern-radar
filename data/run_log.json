@@ -1,26 +1,73 @@
 {
- "at": "2026-11-23T15:55:26+00:00",
+ "at": "2026-11-24T07:45:24+00:00",
  "items": [
   {
+   "key": "ats_raw",
+   "value": 89
+  },
+  {
+   "key": "yc_companies",
+   "value": 866
+  },
+  {
+   "key": "yc_raw",
+   "value": 2
+  },
+  {
+   "key": "hn_story",
+   "value": "Ask HN: Who is hiring? (November 2026)"
+  },
+  {
+   "key": "hn_raw",
+   "value": 5
+  },
+  {
+   "key": "shixiseng_candidates",
+   "value": 378
+  },
+  {
+   "key": "shixiseng_raw",
+   "value": 95
+  },
+  {
+   "key": "eleduck_raw",
+   "value": 2
+  },
+  {
+   "key": "funding_leads",
+   "value": 9
+  },
+  {
    "key": "enrich_skipped",
-   "value": "130 条（未设置 ANTHROPIC_API_KEY）"
+   "value": "132 条（未设置 ANTHROPIC_API_KEY）"
   },
   {
    "key": "stats",
    "value": {
-    "updated_at": "2026-11-23T15:55:26+00:00",
+    "updated_at": "2026-11-24T07:45:24+00:00",
     "total": 82,
-    "remote": 24,
-    "china_onsite": 58,
-    "added_today": 89,
-    "removed_7d": 0,
-    "companies": 46,
-    "sources": []
+    "remote": 25,
+    "china_onsite": 57,
+    "added_today": 9,
+    "removed_7d": 3,
+    "companies": 45,
+    "sources": [
+     "ashby",
+     "eleduck",
+     "greenhouse",
+     "hn",
+     "lever",
+     "recruitee",
+     "shixiseng",
+     "smartrecruiters",
+     "workable",
+     "yc"
+    ]
    }
   },
   {
    "key": "seconds",
-   "value": 3
+   "value": 658
   }
  ]
 }
