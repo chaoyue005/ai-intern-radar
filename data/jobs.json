@@ -1,12 +1,12 @@
 {
  "stats": {
-  "updated_at": "2026-11-24T07:45:24+00:00",
-  "total": 82,
-  "remote": 25,
-  "china_onsite": 57,
-  "added_today": 9,
+  "updated_at": "2026-11-25T06:06:12+00:00",
+  "total": 76,
+  "remote": 24,
+  "china_onsite": 52,
+  "added_today": 6,
   "removed_7d": 3,
-  "companies": 45,
+  "companies": 41,
   "sources": [
    "ashby",
    "eleduck",
@@ -14,7 +14,6 @@
    "hn",
    "lever",
    "recruitee",
-   "shixiseng",
    "smartrecruiters",
    "workable",
    "yc"
@@ -54,7 +53,7 @@
    "posted_at": null,
    "deadline": "2026-11-30",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-24",
+   "last_verified_at": "2026-11-25",
    "pay": {
     "text": null
    },
@@ -76,7 +75,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 199.7
+   "score": 199.3
   },
   {
    "id": "d2839bca5cd1",
@@ -135,7 +134,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 198.0,
+   "score": 197.7,
    "also_cities": [
     "北京"
    ]
@@ -197,7 +196,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 198.0
+   "score": 197.7
   },
   {
    "id": "5997fc40f9ae",
@@ -232,7 +231,7 @@
    "posted_at": null,
    "deadline": "2026-12-10",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-24",
+   "last_verified_at": "2026-11-25",
    "pay": {
     "text": "200-250/天",
     "min": 200.0,
@@ -258,7 +257,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 184.7
+   "score": 184.3
   },
   {
    "id": "7b948291662b",
@@ -317,7 +316,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 178.0,
+   "score": 177.7,
    "also_cities": [
     "广州"
    ]
@@ -379,7 +378,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 178.0
+   "score": 177.7
   },
   {
    "id": "14b9cfc27697",
@@ -438,7 +437,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 178.0
+   "score": 177.7
   },
   {
    "id": "683531acc981",
@@ -497,7 +496,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 177.7
+   "score": 177.3
   },
   {
    "id": "ab593a21cfc8",
@@ -556,7 +555,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 177.7
+   "score": 177.3
   },
   {
    "id": "e7f98694b533",
@@ -615,7 +614,63 @@
     "unverified": []
    },
    "status": "open",
-   "score": 175.0
+   "score": 174.7
+  },
+  {
+   "id": "4800c0280a4c",
+   "title": "AI产品新媒体运营",
+   "apply_url": "https://www.shixiseng.com/intern/inn_wfbshwh9i9uv",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海 远程",
+   "lane": "remote",
+   "china_city": "上海",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "淘课",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-10",
+   "deadline": "2026-12-09",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-24",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 165.0
   },
   {
    "id": "90ad4458e1f6",
@@ -667,7 +722,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 164.7
+   "score": 164.3
   },
   {
    "id": "cba6fb925b33",
@@ -727,7 +782,7 @@
     ]
    },
    "status": "open",
-   "score": 154.7
+   "score": 154.3
   },
   {
    "id": "ef8679f1c9a0",
@@ -787,7 +842,7 @@
     ]
    },
    "status": "open",
-   "score": 152.7,
+   "score": 152.3,
    "also_cities": [
     "上海"
    ]
@@ -850,7 +905,7 @@
     ]
    },
    "status": "open",
-   "score": 150.7
+   "score": 150.3
   },
   {
    "id": "693820e383f7",
@@ -906,7 +961,7 @@
     ]
    },
    "status": "open",
-   "score": 150.0
+   "score": 149.7
   },
   {
    "id": "06437862491f",
@@ -962,63 +1017,7 @@
     ]
    },
    "status": "open",
-   "score": 149.0
-  },
-  {
-   "id": "4800c0280a4c",
-   "title": "AI产品新媒体运营",
-   "apply_url": "https://www.shixiseng.com/intern/inn_wfbshwh9i9uv",
-   "apply_method": "shixiseng",
-   "source": "shixiseng",
-   "location": "上海 远程",
-   "lane": "remote",
-   "china_city": "上海",
-   "remote": "remote_ok",
-   "work_auth": "none_stated",
-   "role_family": "content",
-   "semi_technical": false,
-   "company": {
-    "name": "淘课",
-    "site": null,
-    "one_liner": "",
-    "chinese_team": true,
-    "funding": {
-     "status": "unverified"
-    },
-    "tier": "C",
-    "big_tech": false,
-    "blocked": null,
-    "batch": null,
-    "team_size": null
-   },
-   "posted_at": "2026-11-10",
-   "deadline": "2026-12-09",
-   "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-24",
-   "pay": {
-    "text": "薪资面议"
-   },
-   "days_text": "5天/周",
-   "months_text": "3个月",
-   "days_per_week": null,
-   "duration_months": null,
-   "duties_zh": [],
-   "requirements_zh": [],
-   "skills": [],
-   "portfolio_required": false,
-   "grad_year_limit": "",
-   "needs_review": false,
-   "labels": {
-    "fact": [],
-    "inferred": [
-     "远程/签证由描述推断"
-    ],
-    "unverified": [
-     "融资未核实"
-    ]
-   },
-   "status": "open",
-   "score": 145.3
+   "score": 148.7
   },
   {
    "id": "9f7c76f61c73",
@@ -1137,7 +1136,7 @@
      "融资未核实"
     ]
    },
-   "status": "open",
+   "status": "stale_unverified",
    "score": 145.0
   },
   {
@@ -1196,7 +1195,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 139.7
+   "score": 139.3
   },
   {
    "id": "5b7cadd64940",
@@ -1232,7 +1231,7 @@
    "posted_at": null,
    "deadline": null,
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-24",
+   "last_verified_at": "2026-11-25",
    "pay": {
     "text": null
    },
@@ -1254,7 +1253,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 139.7
+   "score": 139.3
   },
   {
    "id": "c6e8110a8671",
@@ -1290,7 +1289,7 @@
    "posted_at": null,
    "deadline": null,
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-24",
+   "last_verified_at": "2026-11-25",
    "pay": {
     "text": null
    },
@@ -1312,7 +1311,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 139.7
+   "score": 139.3
   },
   {
    "id": "67e9885ce735",
@@ -1344,7 +1343,7 @@
    "posted_at": "2026-11-19",
    "deadline": null,
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-24",
+   "last_verified_at": "2026-11-25",
    "pay": {
     "text": null
    },
@@ -1369,7 +1368,7 @@
     ]
    },
    "status": "open",
-   "score": 108.3
+   "score": 108.0
   },
   {
    "id": "b0b31f55b390",
@@ -1427,7 +1426,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 103.7
+   "score": 103.3
   },
   {
    "id": "76857f23350b",
@@ -1459,7 +1458,7 @@
    "posted_at": "2026-10-30",
    "deadline": null,
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-24",
+   "last_verified_at": "2026-11-25",
    "pay": {
     "text": null
    },
@@ -1484,7 +1483,7 @@
     ]
    },
    "status": "open",
-   "score": 101.7
+   "score": 101.3
   },
   {
    "id": "4553d984e692",
@@ -1542,65 +1541,7 @@
     ]
    },
    "status": "open",
-   "score": 72.3
-  },
-  {
-   "id": "1540f3e44dc4",
-   "title": "海外AI短剧编剧实习生",
-   "apply_url": "https://www.shixiseng.com/intern/inn_n5izbbqnitle",
-   "apply_method": "shixiseng",
-   "source": "shixiseng",
-   "location": "深圳",
-   "lane": "china_onsite",
-   "china_city": "深圳",
-   "remote": "onsite",
-   "work_auth": "none_stated",
-   "role_family": "marketing",
-   "semi_technical": false,
-   "company": {
-    "name": "风行在线",
-    "site": null,
-    "one_liner": "",
-    "chinese_team": true,
-    "funding": {
-     "status": "unverified"
-    },
-    "tier": "C",
-    "big_tech": false,
-    "blocked": null,
-    "batch": null,
-    "team_size": null
-   },
-   "posted_at": "2026-11-09",
-   "deadline": "2026-11-24",
-   "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-24",
-   "pay": {
-    "text": "150-250/天",
-    "min": 150.0,
-    "max": 250.0,
-    "currency": "CNY",
-    "unit": "day"
-   },
-   "days_text": "4天/周",
-   "months_text": "6个月",
-   "days_per_week": null,
-   "duration_months": null,
-   "duties_zh": [],
-   "requirements_zh": [],
-   "skills": [],
-   "portfolio_required": false,
-   "grad_year_limit": "",
-   "needs_review": false,
-   "labels": {
-    "fact": [],
-    "inferred": [],
-    "unverified": [
-     "融资未核实"
-    ]
-   },
-   "status": "open",
-   "score": 70.0
+   "score": 72.0
   },
   {
    "id": "daea8a68e944",
@@ -1658,7 +1599,7 @@
     ]
    },
    "status": "open",
-   "score": 65.7
+   "score": 65.3
   },
   {
    "id": "1cfd92b913ad",
@@ -1716,7 +1657,7 @@
     ]
    },
    "status": "open",
-   "score": 55.0
+   "score": 54.7
   },
   {
    "id": "0c3f4114c1e0",
@@ -1774,7 +1715,7 @@
     ]
    },
    "status": "open",
-   "score": 54.7
+   "score": 54.3
   },
   {
    "id": "e9920d1d4626",
@@ -1832,7 +1773,7 @@
     ]
    },
    "status": "open",
-   "score": 53.7
+   "score": 53.3
   },
   {
    "id": "acdaae31f33a",
@@ -1890,7 +1831,7 @@
     ]
    },
    "status": "open",
-   "score": 53.7
+   "score": 53.3
   },
   {
    "id": "e25d5021a9cb",
@@ -1948,7 +1889,7 @@
     ]
    },
    "status": "open",
-   "score": 53.7
+   "score": 53.3
   },
   {
    "id": "0c096531359f",
@@ -2006,7 +1947,7 @@
     ]
    },
    "status": "open",
-   "score": 53.3
+   "score": 53.0
   },
   {
    "id": "9f50d41344e1",
@@ -2064,7 +2005,7 @@
     ]
    },
    "status": "open",
-   "score": 53.0
+   "score": 52.7
   },
   {
    "id": "cb77832352ed",
@@ -2122,7 +2063,7 @@
     ]
    },
    "status": "open",
-   "score": 51.0
+   "score": 50.7
   },
   {
    "id": "391567f004f5",
@@ -2180,7 +2121,7 @@
     ]
    },
    "status": "open",
-   "score": 50.3
+   "score": 50.0
   },
   {
    "id": "8b1d9f67605f",
@@ -2238,7 +2179,65 @@
     ]
    },
    "status": "open",
-   "score": 50.3
+   "score": 50.0
+  },
+  {
+   "id": "1540f3e44dc4",
+   "title": "海外AI短剧编剧实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_n5izbbqnitle",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "深圳",
+   "lane": "china_onsite",
+   "china_city": "深圳",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "marketing",
+   "semi_technical": false,
+   "company": {
+    "name": "风行在线",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-09",
+   "deadline": "2026-11-24",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-24",
+   "pay": {
+    "text": "150-250/天",
+    "min": 150.0,
+    "max": 250.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "4天/周",
+   "months_text": "6个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "closed",
+   "score": 49.7
   },
   {
    "id": "a9f5853e440d",
@@ -2296,7 +2295,7 @@
     ]
    },
    "status": "open",
-   "score": 45.7
+   "score": 45.3
   },
   {
    "id": "c6d24817aeeb",
@@ -2469,7 +2468,7 @@
      "融资未核实"
     ]
    },
-   "status": "open",
+   "status": "stale_unverified",
    "score": 45.0
   },
   {
@@ -2582,7 +2581,7 @@
     ]
    },
    "status": "open",
-   "score": 40.3
+   "score": 40.0
   },
   {
    "id": "783d042f8e13",
@@ -2638,7 +2637,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 23.7
+   "score": 23.3
   },
   {
    "id": "ed2249b04a79",
@@ -2694,7 +2693,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 23.7
+   "score": 23.3
   },
   {
    "id": "2c23096f0c31",
@@ -2750,7 +2749,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 22.7
+   "score": 22.3
   },
   {
    "id": "978cdb380049",
@@ -2806,7 +2805,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 22.3
+   "score": 22.0
   },
   {
    "id": "032201ced4a4",
@@ -2862,7 +2861,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 20.7
+   "score": 20.3
   },
   {
    "id": "b8b174ce5536",
@@ -2918,7 +2917,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 20.0
+   "score": 19.7
   },
   {
    "id": "9cee04e54164",
@@ -2974,7 +2973,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 18.0
+   "score": 17.7
   },
   {
    "id": "1b403290350c",
@@ -3030,7 +3029,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 16.7
+   "score": 16.3
   },
   {
    "id": "da41736fd533",
@@ -3086,7 +3085,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 16.0
+   "score": 15.7
   },
   {
    "id": "240396f53c0c",
@@ -3194,7 +3193,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 13.0,
+   "score": 12.7,
    "also_cities": []
   },
   {
@@ -3251,7 +3250,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 5.0
+   "score": 4.7
   },
   {
    "id": "a27164ef3f82",
@@ -3307,7 +3306,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 5.0
+   "score": 4.7
   },
   {
    "id": "66348b64c962",
@@ -3363,7 +3362,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 4.7
+   "score": 4.3
   },
   {
    "id": "3a9c13dfcf8d",
@@ -3419,7 +3418,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 4.7
+   "score": 4.3
   },
   {
    "id": "e2bbbdcee883",
@@ -3475,7 +3474,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 3.3
+   "score": 3.0
   },
   {
    "id": "e77d8d4ae643",
@@ -3531,7 +3530,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 3.0
+   "score": 2.7
   },
   {
    "id": "b7373cb25338",
@@ -3587,7 +3586,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 2.7,
+   "score": 2.3,
    "also_cities": []
   },
   {
@@ -3644,7 +3643,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 2.7
+   "score": 2.3
   },
   {
    "id": "8ed1a2c19694",
@@ -3700,7 +3699,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 2.7
+   "score": 2.3
   },
   {
    "id": "13ec5acaa783",
@@ -3756,7 +3755,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 0.7
+   "score": 0.3
   },
   {
    "id": "830d197ae1ad",
@@ -3812,7 +3811,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 0.7
+   "score": 0.3
   },
   {
    "id": "a8651484e65c",
@@ -3868,7 +3867,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 0.0
+   "score": -0.3
   },
   {
    "id": "10c68189fb92",
@@ -3920,7 +3919,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": -0.3
+   "score": -0.7
   },
   {
    "id": "340bc419ebc9",
@@ -3976,7 +3975,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": -1.0,
+   "score": -1.3,
    "also_cities": [
     "上海"
    ]
@@ -4031,7 +4030,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": -1.3
+   "score": -1.7
   },
   {
    "id": "45b1faf2c920",
@@ -4083,7 +4082,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": -2.0
+   "score": -2.3
   },
   {
    "id": "02c65f3f6932",
@@ -4135,7 +4134,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": -2.3
+   "score": -2.7
   },
   {
    "id": "29b9e2815971",
@@ -4191,7 +4190,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": -3.7
+   "score": -4.0
   },
   {
    "id": "cfa33d53002a",
@@ -4243,7 +4242,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": -4.3
+   "score": -4.7
   },
   {
    "id": "6fb076d50e71",
@@ -4299,7 +4298,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": -4.3
+   "score": -4.7
   },
   {
    "id": "d982c4e80cea",
@@ -4355,7 +4354,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": -4.7
+   "score": -5.0
   },
   {
    "id": "c538bea4b415",
@@ -4410,7 +4409,7 @@
     "inferred": [],
     "unverified": []
    },
-   "status": "open",
+   "status": "stale_unverified",
    "score": -5.0
   },
   {
@@ -4802,7 +4801,7 @@
     "inferred": [],
     "unverified": []
    },
-   "status": "open",
+   "status": "stale_unverified",
    "score": -5.0
   },
   {
@@ -4970,7 +4969,7 @@
     "inferred": [],
     "unverified": []
    },
-   "status": "open",
+   "status": "stale_unverified",
    "score": -5.0
   }
  ]

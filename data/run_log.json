@@ -1,5 +1,5 @@
 {
- "at": "2026-11-24T07:45:24+00:00",
+ "at": "2026-11-25T06:06:12+00:00",
  "items": [
   {
    "key": "ats_raw",
@@ -7,7 +7,7 @@
   },
   {
    "key": "yc_companies",
-   "value": 866
+   "value": 864
   },
   {
    "key": "yc_raw",
@@ -22,12 +22,12 @@
    "value": 5
   },
   {
-   "key": "shixiseng_candidates",
-   "value": 378
+   "key": "shixiseng_blocked",
+   "value": "404 https://www.shixiseng.com/intern/inn_6ochny1nfsic"
   },
   {
-   "key": "shixiseng_raw",
-   "value": 95
+   "key": "shixiseng_failed",
+   "value": "本次抓到 0 条，已沿用上次数据"
   },
   {
    "key": "eleduck_raw",
@@ -35,7 +35,7 @@
   },
   {
    "key": "funding_leads",
-   "value": 9
+   "value": 7
   },
   {
    "key": "enrich_skipped",
@@ -44,13 +44,13 @@
   {
    "key": "stats",
    "value": {
-    "updated_at": "2026-11-24T07:45:24+00:00",
-    "total": 82,
-    "remote": 25,
-    "china_onsite": 57,
-    "added_today": 9,
+    "updated_at": "2026-11-25T06:06:12+00:00",
+    "total": 76,
+    "remote": 24,
+    "china_onsite": 52,
+    "added_today": 6,
     "removed_7d": 3,
-    "companies": 45,
+    "companies": 41,
     "sources": [
      "ashby",
      "eleduck",
@@ -58,7 +58,6 @@
      "hn",
      "lever",
      "recruitee",
-     "shixiseng",
      "smartrecruiters",
      "workable",
      "yc"
@@ -67,7 +66,7 @@
   },
   {
    "key": "seconds",
-   "value": 658
+   "value": 201
   }
  ]
 }
