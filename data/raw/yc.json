@@ -44,5 +44,51 @@
     "round": "YC Winter 2018"
    }
   }
+ },
+ {
+  "company": "Julius",
+  "title": "Investment Banking - AI Research (MBA Intern)",
+  "apply_url": "https://www.ycombinator.com/companies/julius/jobs/neFdl6L-investment-banking-ai-research-mba-intern",
+  "apply_method": "yc",
+  "source": "yc",
+  "location": "Remote / Remote (US)",
+  "description": "",
+  "visa": "US citizen/visa only",
+  "pay_text": "$2K - $12K",
+  "posted_ago": "28 days",
+  "employment_type": "intern",
+  "company_meta": {
+   "site": "https://julius.ai",
+   "one_liner": "Build and analyze things with AI",
+   "batch": "Summer 2022",
+   "team_size": 10,
+   "funding": {
+    "status": "yc_only",
+    "round": "YC Summer 2022"
+   }
+  }
+ },
+ {
+  "company": "Klaimee",
+  "title": "Growth Marketer (Intern) ",
+  "apply_url": "https://www.ycombinator.com/companies/klaimee/jobs/VkqRyxv-growth-marketer-intern",
+  "apply_method": "yc",
+  "source": "yc",
+  "location": "San Francisco, CA, US / Remote (US)",
+  "description": "",
+  "visa": "US citizen/visa only",
+  "pay_text": "$50K - $80K",
+  "posted_ago": "3 months",
+  "employment_type": "intern",
+  "company_meta": {
+   "site": "https://www.klaimee.ai",
+   "one_liner": "Liability insurance for AI Agents. You deploy agents, we cover you.",
+   "batch": "Spring 2026",
+   "team_size": 2,
+   "funding": {
+    "status": "yc_only",
+    "round": "YC Spring 2026"
+   }
+  }
  }
 ]

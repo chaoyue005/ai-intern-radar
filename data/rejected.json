@@ -88,6 +88,16 @@
   ]
  },
  {
+  "company": "HeyGen",
+  "title": "Product Marketing MBA Intern (Contract)",
+  "url": "https://job-boards.greenhouse.io/heygen/jobs/5309913007",
+  "source": "greenhouse",
+  "reasons": [
+   "mba_only",
+   "overseas_onsite"
+  ]
+ },
+ {
   "company": "Rilla",
   "title": "Software Engineering Intern, 2028 Grads ",
   "url": "https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9",
@@ -379,7 +389,7 @@
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
   "source": "greenhouse",
   "reasons": [
    "technical",
@@ -389,7 +399,7 @@
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
   "source": "greenhouse",
   "reasons": [
    "technical",
@@ -556,6 +566,27 @@
   ]
  },
  {
+  "company": "Julius",
+  "title": "Investment Banking - AI Research (MBA Intern)",
+  "url": "https://www.ycombinator.com/companies/julius/jobs/neFdl6L-investment-banking-ai-research-mba-intern",
+  "source": "yc",
+  "reasons": [
+   "mba_only",
+   "us_only",
+   "region_limited"
+  ]
+ },
+ {
+  "company": "Klaimee",
+  "title": "Growth Marketer (Intern) ",
+  "url": "https://www.ycombinator.com/companies/klaimee/jobs/VkqRyxv-growth-marketer-intern",
+  "source": "yc",
+  "reasons": [
+   "us_only",
+   "region_limited"
+  ]
+ },
+ {
   "company": "United Risk",
   "title": "United Risk | Early-Career AI Engineers – Full-Stack, Data Science, Infrastructure/DevOps (10 openings) | New York, NY | HYBRID (2 days/week",
   "url": "https://news.ycombinator.com/item?id=50338822",
@@ -566,12 +597,31 @@
   ]
  },
  {
+  "company": "HackQuest",
+  "title": "海外市场增长运营",
+  "url": "https://www.shixiseng.com/intern/inn_shqfzhjmocro",
+  "source": "shixiseng",
+  "reasons": [
+   "crypto",
+   "overseas_onsite"
+  ]
+ },
+ {
   "company": "玖玖造物",
   "title": "海外AI产品经理（Ai内容+UGC/2000房补）",
   "url": "https://www.shixiseng.com/intern/inn_i7cvtx7zuc3o",
   "source": "shixiseng",
   "reasons": [
    "senior_or_fulltime"
+  ]
+ },
+ {
+  "company": "时尚传媒",
+  "title": "ai 赋能新媒体增长助理（时尚-媒体-传媒）",
+  "url": "https://www.shixiseng.com/intern/inn_p5o9bzqtusoc",
+  "source": "shixiseng",
+  "reasons": [
+   "unpaid"
   ]
  },
  {
@@ -641,6 +691,15 @@
   "company": "Meshy",
   "title": "Community Intern",
   "url": "https://jobs.ashbyhq.com/meshy/f533cc7d-902d-4dd9-8337-4f0eb0c78786",
+  "source": "ashby",
+  "reasons": [
+   "region_limited"
+  ]
+ },
+ {
+  "company": "Meshy",
+  "title": "Marketing Intern, North America (B2B Events & Growth) ",
+  "url": "https://jobs.ashbyhq.com/meshy/0b471661-131a-4a91-9ae0-5a99bef62591",
   "source": "ashby",
   "reasons": [
    "region_limited"
@@ -926,18 +985,18 @@
   ]
  },
  {
-  "company": "芒果TV",
-  "title": "AIGC策略合作实习生",
-  "url": "https://www.shixiseng.com/intern/inn_x7rxrpqcwf7j",
+  "company": "观察合创",
+  "title": "AIGC视频制作实习生",
+  "url": "https://www.shixiseng.com/intern/inn_su8r5izitijf",
   "source": "shixiseng",
   "reasons": [
    "overseas_onsite"
   ]
  },
  {
-  "company": "观察合创",
-  "title": "AIGC视频制作实习生",
-  "url": "https://www.shixiseng.com/intern/inn_su8r5izitijf",
+  "company": "爱看互动",
+  "title": "AIGC专员（base郑州）",
+  "url": "https://www.shixiseng.com/intern/inn_rewcve8zgjaw",
   "source": "shixiseng",
   "reasons": [
    "overseas_onsite"
