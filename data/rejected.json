@@ -566,24 +566,14 @@
   ]
  },
  {
-  "company": "Julius",
-  "title": "Investment Banking - AI Research (MBA Intern)",
-  "url": "https://www.ycombinator.com/companies/julius/jobs/neFdl6L-investment-banking-ai-research-mba-intern",
+  "company": "Abundant",
+  "title": "Member of Technical Staff, Research (Intern Winter 2027) ",
+  "url": "https://www.ycombinator.com/companies/abundant/jobs/BzaOY1P-member-of-technical-staff-research-intern-winter-2027",
   "source": "yc",
   "reasons": [
-   "mba_only",
-   "us_only",
-   "region_limited"
-  ]
- },
- {
-  "company": "Klaimee",
-  "title": "Growth Marketer (Intern) ",
-  "url": "https://www.ycombinator.com/companies/klaimee/jobs/VkqRyxv-growth-marketer-intern",
-  "source": "yc",
-  "reasons": [
-   "us_only",
-   "region_limited"
+   "technical",
+   "overseas_onsite",
+   "us_only"
   ]
  },
  {
@@ -616,18 +606,18 @@
   ]
  },
  {
-  "company": "时尚传媒",
-  "title": "ai 赋能新媒体增长助理（时尚-媒体-传媒）",
-  "url": "https://www.shixiseng.com/intern/inn_p5o9bzqtusoc",
+  "company": "这里陪伴",
+  "title": "AI产品运营实习生",
+  "url": "https://www.shixiseng.com/intern/inn_luccmnm8n0jy",
   "source": "shixiseng",
   "reasons": [
    "unpaid"
   ]
  },
  {
-  "company": "这里陪伴",
-  "title": "AI产品运营实习生",
-  "url": "https://www.shixiseng.com/intern/inn_luccmnm8n0jy",
+  "company": "新达耘创",
+  "title": "AI 产品新媒体运营实习生",
+  "url": "https://www.shixiseng.com/intern/inn_es3po34wbher",
   "source": "shixiseng",
   "reasons": [
    "unpaid"
@@ -952,6 +942,15 @@
   "company": "喜播集团",
   "title": "AI短视频运营实习生",
   "url": "https://www.shixiseng.com/intern/inn_3ckl6d2ojqtu",
+  "source": "shixiseng",
+  "reasons": [
+   "overseas_onsite"
+  ]
+ },
+ {
+  "company": "芒果TV",
+  "title": "AI产品社群运营",
+  "url": "https://www.shixiseng.com/intern/inn_rotwx8tpl7co",
   "source": "shixiseng",
   "reasons": [
    "overseas_onsite"

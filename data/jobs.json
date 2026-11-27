@@ -1,12 +1,12 @@
 {
  "stats": {
-  "updated_at": "2026-11-26T06:06:48+00:00",
-  "total": 78,
-  "remote": 25,
-  "china_onsite": 53,
-  "added_today": 11,
-  "removed_7d": 11,
-  "companies": 44,
+  "updated_at": "2026-11-27T06:01:07+00:00",
+  "total": 82,
+  "remote": 27,
+  "china_onsite": 55,
+  "added_today": 13,
+  "removed_7d": 14,
+  "companies": 47,
   "sources": [
    "ashby",
    "eleduck",
@@ -54,7 +54,7 @@
    "posted_at": null,
    "deadline": "2026-12-10",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "200-250/天",
     "min": 200.0,
@@ -80,7 +80,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 204.0
+   "score": 203.7
   },
   {
    "id": "fee15d87581c",
@@ -115,7 +115,7 @@
    "posted_at": null,
    "deadline": "2026-11-30",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": null
    },
@@ -137,7 +137,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 199.0
+   "score": 198.7
   },
   {
    "id": "d2839bca5cd1",
@@ -172,7 +172,7 @@
    "posted_at": "2026-11-18",
    "deadline": "2026-11-30",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "薪资面议"
    },
@@ -196,7 +196,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 197.3,
+   "score": 197.0,
    "also_cities": [
     "北京"
    ]
@@ -234,7 +234,7 @@
    "posted_at": "2026-11-18",
    "deadline": "2026-11-30",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "薪资面议"
    },
@@ -258,7 +258,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 197.3
+   "score": 197.0
   },
   {
    "id": "e7f98694b533",
@@ -293,7 +293,7 @@
    "posted_at": "2026-11-09",
    "deadline": "2026-12-10",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "薪资面议"
    },
@@ -317,7 +317,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 194.3
+   "score": 194.0
   },
   {
    "id": "7b948291662b",
@@ -352,7 +352,7 @@
    "posted_at": "2026-11-18",
    "deadline": "2026-12-18",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "薪资面议"
    },
@@ -376,7 +376,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 177.3,
+   "score": 177.0,
    "also_cities": [
     "广州"
    ]
@@ -414,7 +414,7 @@
    "posted_at": "2026-11-18",
    "deadline": "2026-12-18",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "薪资面议"
    },
@@ -438,66 +438,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 177.3
-  },
-  {
-   "id": "14b9cfc27697",
-   "title": "海外社媒运营实习生｜AI远程实习",
-   "apply_url": "https://www.shixiseng.com/intern/inn_a6cnn2fphqoi",
-   "apply_method": "shixiseng",
-   "source": "shixiseng",
-   "location": "深圳 远程",
-   "lane": "remote",
-   "china_city": "深圳",
-   "remote": "remote_ok",
-   "work_auth": "none_stated",
-   "role_family": "social",
-   "semi_technical": false,
-   "company": {
-    "name": "NemoVideo",
-    "site": "nemovideo.com",
-    "one_liner": "AI 视频剪辑智能体，面向海外创作者",
-    "chinese_team": true,
-    "funding": {
-     "status": "verified",
-     "amount_usd": 10000000,
-     "lead": "IDG",
-     "needs_source": true
-    },
-    "tier": "A",
-    "big_tech": false,
-    "blocked": null,
-    "batch": null,
-    "team_size": null
-   },
-   "posted_at": "2026-11-18",
-   "deadline": "2026-12-18",
-   "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
-   "pay": {
-    "text": "薪资面议"
-   },
-   "days_text": "5天/周",
-   "months_text": "3个月",
-   "days_per_week": null,
-   "duration_months": null,
-   "duties_zh": [],
-   "requirements_zh": [],
-   "skills": [],
-   "portfolio_required": false,
-   "grad_year_limit": "",
-   "needs_review": false,
-   "labels": {
-    "fact": [
-     "融资有公开来源"
-    ],
-    "inferred": [
-     "远程/签证由描述推断"
-    ],
-    "unverified": []
-   },
-   "status": "open",
-   "score": 177.3
+   "score": 177.0
   },
   {
    "id": "683531acc981",
@@ -532,7 +473,7 @@
    "posted_at": "2026-11-17",
    "deadline": "2026-12-18",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "薪资面议"
    },
@@ -556,7 +497,67 @@
     "unverified": []
    },
    "status": "open",
-   "score": 177.0
+   "score": 176.7
+  },
+  {
+   "id": "de7f359a591f",
+   "title": "AI海外运营",
+   "apply_url": "https://www.shixiseng.com/intern/inn_h6igckmgugb3",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京 远程",
+   "lane": "remote",
+   "china_city": "北京",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "麦汐科技",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-11",
+   "deadline": "2026-12-11",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-27",
+   "pay": {
+    "text": "150-200/天",
+    "min": 150.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 169.7
   },
   {
    "id": "7ceedb9cf719",
@@ -588,7 +589,7 @@
    "posted_at": "2026-11-26",
    "deadline": null,
    "first_seen": "2026-11-26",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": null
    },
@@ -612,7 +613,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 165.0
+   "score": 164.7
   },
   {
    "id": "4800c0280a4c",
@@ -644,7 +645,7 @@
    "posted_at": "2026-11-10",
    "deadline": "2026-12-09",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "薪资面议"
    },
@@ -668,7 +669,7 @@
     ]
    },
    "status": "open",
-   "score": 164.7
+   "score": 164.3
   },
   {
    "id": "90ad4458e1f6",
@@ -720,7 +721,127 @@
     "unverified": []
    },
    "status": "open",
-   "score": 164.0
+   "score": 163.7
+  },
+  {
+   "id": "c3e611a357fc",
+   "title": "AI商业运营实习生（市场与增长｜远程）",
+   "apply_url": "https://www.shixiseng.com/intern/inn_35w0ahzndiue",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京 远程",
+   "lane": "remote",
+   "china_city": "北京",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "深度智见信息技术服务中心",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-27",
+   "deadline": "2027-11-28",
+   "first_seen": "2026-11-27",
+   "last_verified_at": "2026-11-27",
+   "pay": {
+    "text": "120-200/天",
+    "min": 120.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "3天/周",
+   "months_text": "2个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 155.0
+  },
+  {
+   "id": "a879d3305b62",
+   "title": "增长运营实习生（AI创业团队）",
+   "apply_url": "https://www.shixiseng.com/intern/inn_w8mwi7ivpami",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "杭州 远程",
+   "lane": "remote",
+   "china_city": "杭州",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "朗夜寻星",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-26",
+   "deadline": "2026-12-27",
+   "first_seen": "2026-11-27",
+   "last_verified_at": "2026-11-27",
+   "pay": {
+    "text": "150-200/天",
+    "min": 150.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "3天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 154.7
   },
   {
    "id": "cba6fb925b33",
@@ -752,7 +873,7 @@
    "posted_at": "2026-11-23",
    "deadline": "2026-12-24",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "100-200/天",
     "min": 100.0,
@@ -780,7 +901,7 @@
     ]
    },
    "status": "open",
-   "score": 154.0
+   "score": 153.7
   },
   {
    "id": "ef8679f1c9a0",
@@ -812,7 +933,7 @@
    "posted_at": "2026-11-17",
    "deadline": "2026-12-18",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "100-200/天",
     "min": 100.0,
@@ -840,70 +961,10 @@
     ]
    },
    "status": "open",
-   "score": 152.0,
+   "score": 151.7,
    "also_cities": [
     "上海"
    ]
-  },
-  {
-   "id": "de7f359a591f",
-   "title": "AI海外运营",
-   "apply_url": "https://www.shixiseng.com/intern/inn_h6igckmgugb3",
-   "apply_method": "shixiseng",
-   "source": "shixiseng",
-   "location": "北京 远程",
-   "lane": "remote",
-   "china_city": "北京",
-   "remote": "remote_ok",
-   "work_auth": "none_stated",
-   "role_family": "ops",
-   "semi_technical": false,
-   "company": {
-    "name": "麦汐科技",
-    "site": null,
-    "one_liner": "",
-    "chinese_team": true,
-    "funding": {
-     "status": "unverified"
-    },
-    "tier": "C",
-    "big_tech": false,
-    "blocked": null,
-    "batch": null,
-    "team_size": null
-   },
-   "posted_at": "2026-11-11",
-   "deadline": "2026-12-11",
-   "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
-   "pay": {
-    "text": "150-200/天",
-    "min": 150.0,
-    "max": 200.0,
-    "currency": "CNY",
-    "unit": "day"
-   },
-   "days_text": "5天/周",
-   "months_text": "3个月",
-   "days_per_week": null,
-   "duration_months": null,
-   "duties_zh": [],
-   "requirements_zh": [],
-   "skills": [],
-   "portfolio_required": false,
-   "grad_year_limit": "",
-   "needs_review": false,
-   "labels": {
-    "fact": [],
-    "inferred": [
-     "远程/签证由描述推断"
-    ],
-    "unverified": [
-     "融资未核实"
-    ]
-   },
-   "status": "open",
-   "score": 150.0
   },
   {
    "id": "693820e383f7",
@@ -932,10 +993,10 @@
     "batch": null,
     "team_size": null
    },
-   "posted_at": "2026-11-25",
+   "posted_at": "2026-11-27",
    "deadline": "2027-01-14",
    "first_seen": "2026-11-24",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "薪资面议"
    },
@@ -959,7 +1020,63 @@
     ]
    },
    "status": "open",
-   "score": 149.7
+   "score": 150.0
+  },
+  {
+   "id": "5b65653e1bda",
+   "title": "女性向AI产品增长实习生（可远程）",
+   "apply_url": "https://www.shixiseng.com/intern/inn_on2yxozlmemm",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "上海 远程",
+   "lane": "remote",
+   "china_city": "上海",
+   "remote": "remote_ok",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "月光茧",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-27",
+   "deadline": "2026-12-26",
+   "first_seen": "2026-11-27",
+   "last_verified_at": "2026-11-27",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [
+     "远程/签证由描述推断"
+    ],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 150.0
   },
   {
    "id": "06437862491f",
@@ -991,7 +1108,7 @@
    "posted_at": "2026-11-21",
    "deadline": "2026-12-14",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "薪资面议"
    },
@@ -1015,7 +1132,7 @@
     ]
    },
    "status": "open",
-   "score": 148.3
+   "score": 148.0
   },
   {
    "id": "9f7c76f61c73",
@@ -1047,7 +1164,7 @@
    "posted_at": "2026-10-01",
    "deadline": "2027-10-01",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "100-200/天",
     "min": 100.0,
@@ -1107,7 +1224,7 @@
    "posted_at": "2026-07-06",
    "deadline": "2027-07-07",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "80-150/天",
     "min": 80.0,
@@ -1193,7 +1310,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 139.0
+   "score": 138.7
   },
   {
    "id": "5b7cadd64940",
@@ -1229,7 +1346,7 @@
    "posted_at": null,
    "deadline": null,
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": null
    },
@@ -1251,7 +1368,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 139.0
+   "score": 138.7
   },
   {
    "id": "c6e8110a8671",
@@ -1287,7 +1404,7 @@
    "posted_at": null,
    "deadline": null,
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": null
    },
@@ -1309,7 +1426,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 139.0
+   "score": 138.7
   },
   {
    "id": "67e9885ce735",
@@ -1341,7 +1458,7 @@
    "posted_at": "2026-11-19",
    "deadline": null,
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": null
    },
@@ -1366,7 +1483,7 @@
     ]
    },
    "status": "open",
-   "score": 107.7
+   "score": 107.3
   },
   {
    "id": "b0b31f55b390",
@@ -1398,7 +1515,7 @@
    "posted_at": "2026-11-20",
    "deadline": "2026-12-21",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "100-150/天",
     "min": 100.0,
@@ -1424,7 +1541,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 103.0
+   "score": 102.7
   },
   {
    "id": "76857f23350b",
@@ -1456,7 +1573,7 @@
    "posted_at": "2026-10-30",
    "deadline": null,
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": null
    },
@@ -1481,7 +1598,7 @@
     ]
    },
    "status": "open",
-   "score": 101.0
+   "score": 100.7
   },
   {
    "id": "6e961efa774b",
@@ -1513,7 +1630,7 @@
    "posted_at": "2026-02-04",
    "deadline": "2026-12-30",
    "first_seen": "2026-11-26",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "200-250/天",
     "min": 200.0,
@@ -1571,7 +1688,7 @@
    "posted_at": "2026-11-16",
    "deadline": "2026-11-29",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150-200/天",
     "min": 150.0,
@@ -1597,23 +1714,23 @@
     ]
    },
    "status": "open",
-   "score": 71.7
+   "score": 71.3
   },
   {
-   "id": "316e1e878fdf",
-   "title": "AI产品实习生",
-   "apply_url": "https://www.shixiseng.com/intern/inn_kxpxmys0rqoq",
+   "id": "391567f004f5",
+   "title": "AI 产品运营实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_g59qcribmaqa",
    "apply_method": "shixiseng",
    "source": "shixiseng",
-   "location": "北京",
+   "location": "杭州",
    "lane": "china_onsite",
-   "china_city": "北京",
+   "china_city": "杭州",
    "remote": "onsite",
    "work_auth": "none_stated",
    "role_family": "pm",
    "semi_technical": false,
    "company": {
-    "name": "智码星图",
+    "name": "元狲",
     "site": null,
     "one_liner": "",
     "chinese_team": true,
@@ -1626,14 +1743,72 @@
     "batch": null,
     "team_size": null
    },
-   "posted_at": "2026-10-30",
-   "deadline": "2026-11-26",
-   "first_seen": "2026-11-26",
-   "last_verified_at": "2026-11-26",
+   "posted_at": "2026-11-10",
+   "deadline": "2026-12-11",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-27",
    "pay": {
-    "text": "200-250/天",
-    "min": 200.0,
-    "max": 250.0,
+    "text": "100-200/天",
+    "min": 100.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "4个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 69.3
+  },
+  {
+   "id": "8b1d9f67605f",
+   "title": "AI产品运营助理（AI开源工具方向） | 可转正",
+   "apply_url": "https://www.shixiseng.com/intern/inn_ozvhbfmu4ig7",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "情感机器",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-10",
+   "deadline": "2026-12-11",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-27",
+   "pay": {
+    "text": "250-300/天",
+    "min": 250.0,
+    "max": 300.0,
     "currency": "CNY",
     "unit": "day"
    },
@@ -1655,7 +1830,7 @@
     ]
    },
    "status": "open",
-   "score": 66.0
+   "score": 69.3
   },
   {
    "id": "daea8a68e944",
@@ -1687,7 +1862,7 @@
    "posted_at": "2026-10-27",
    "deadline": "2026-11-27",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150-250/天",
     "min": 150.0,
@@ -1745,7 +1920,7 @@
    "posted_at": "2026-04-07",
    "deadline": "2026-12-04",
    "first_seen": "2026-11-26",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "120-150/天",
     "min": 120.0,
@@ -1772,6 +1947,122 @@
    },
    "status": "zombie",
    "score": 65.0
+  },
+  {
+   "id": "3ae38086bb69",
+   "title": "AI产品 海外达人运营",
+   "apply_url": "https://www.shixiseng.com/intern/inn_9y6qhi10vegt",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "social",
+   "semi_technical": false,
+   "company": {
+    "name": "鹤冲天科技",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-26",
+   "deadline": "2026-12-27",
+   "first_seen": "2026-11-27",
+   "last_verified_at": "2026-11-27",
+   "pay": {
+    "text": "150-200/天",
+    "min": 150.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "4天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 54.7
+  },
+  {
+   "id": "812c86d982e9",
+   "title": "AI产品 海外内容运营",
+   "apply_url": "https://www.shixiseng.com/intern/inn_k0hhsqmyjczb",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "content",
+   "semi_technical": false,
+   "company": {
+    "name": "鹤冲天科技",
+    "site": null,
+    "one_liner": "",
+    "chinese_team": true,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "C",
+    "big_tech": false,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-26",
+   "deadline": "2026-12-27",
+   "first_seen": "2026-11-27",
+   "last_verified_at": "2026-11-27",
+   "pay": {
+    "text": "150-200/天",
+    "min": 150.0,
+    "max": 200.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "4天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": [
+     "融资未核实"
+    ]
+   },
+   "status": "open",
+   "score": 54.7
   },
   {
    "id": "1cfd92b913ad",
@@ -1803,7 +2094,7 @@
    "posted_at": "2026-11-24",
    "deadline": "2026-12-15",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150-250/天",
     "min": 150.0,
@@ -1829,7 +2120,7 @@
     ]
    },
    "status": "open",
-   "score": 54.3
+   "score": 54.0
   },
   {
    "id": "b4c4ece449c5",
@@ -1861,7 +2152,7 @@
    "posted_at": "2026-11-24",
    "deadline": "2027-07-15",
    "first_seen": "2026-11-26",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "120-150/天",
     "min": 120.0,
@@ -1887,7 +2178,7 @@
     ]
    },
    "status": "open",
-   "score": 54.3
+   "score": 54.0
   },
   {
    "id": "0c3f4114c1e0",
@@ -1919,7 +2210,7 @@
    "posted_at": "2026-11-23",
    "deadline": "2026-12-24",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "180-200/天",
     "min": 180.0,
@@ -1945,7 +2236,7 @@
     ]
    },
    "status": "open",
-   "score": 54.0
+   "score": 53.7
   },
   {
    "id": "e9920d1d4626",
@@ -1977,7 +2268,7 @@
    "posted_at": "2026-11-20",
    "deadline": "2026-12-31",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "100-200/天",
     "min": 100.0,
@@ -2003,7 +2294,7 @@
     ]
    },
    "status": "open",
-   "score": 53.0
+   "score": 52.7
   },
   {
    "id": "acdaae31f33a",
@@ -2035,7 +2326,7 @@
    "posted_at": "2026-11-20",
    "deadline": "2027-11-21",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150-250/天",
     "min": 150.0,
@@ -2061,7 +2352,7 @@
     ]
    },
    "status": "open",
-   "score": 53.0
+   "score": 52.7
   },
   {
    "id": "e25d5021a9cb",
@@ -2093,7 +2384,7 @@
    "posted_at": "2026-11-20",
    "deadline": "2026-12-21",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "200-300/天",
     "min": 200.0,
@@ -2119,7 +2410,7 @@
     ]
    },
    "status": "open",
-   "score": 53.0
+   "score": 52.7
   },
   {
    "id": "cb77832352ed",
@@ -2151,7 +2442,7 @@
    "posted_at": "2026-11-12",
    "deadline": "2027-01-14",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150/天",
     "min": 150.0,
@@ -2177,123 +2468,7 @@
     ]
    },
    "status": "open",
-   "score": 50.3
-  },
-  {
-   "id": "391567f004f5",
-   "title": "AI 产品运营实习生",
-   "apply_url": "https://www.shixiseng.com/intern/inn_g59qcribmaqa",
-   "apply_method": "shixiseng",
-   "source": "shixiseng",
-   "location": "杭州",
-   "lane": "china_onsite",
-   "china_city": "杭州",
-   "remote": "onsite",
-   "work_auth": "none_stated",
-   "role_family": "pm",
-   "semi_technical": false,
-   "company": {
-    "name": "元狲",
-    "site": null,
-    "one_liner": "",
-    "chinese_team": true,
-    "funding": {
-     "status": "unverified"
-    },
-    "tier": "C",
-    "big_tech": false,
-    "blocked": null,
-    "batch": null,
-    "team_size": null
-   },
-   "posted_at": "2026-11-10",
-   "deadline": "2026-12-11",
-   "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
-   "pay": {
-    "text": "100-200/天",
-    "min": 100.0,
-    "max": 200.0,
-    "currency": "CNY",
-    "unit": "day"
-   },
-   "days_text": "5天/周",
-   "months_text": "4个月",
-   "days_per_week": null,
-   "duration_months": null,
-   "duties_zh": [],
-   "requirements_zh": [],
-   "skills": [],
-   "portfolio_required": false,
-   "grad_year_limit": "",
-   "needs_review": false,
-   "labels": {
-    "fact": [],
-    "inferred": [],
-    "unverified": [
-     "融资未核实"
-    ]
-   },
-   "status": "open",
-   "score": 49.7
-  },
-  {
-   "id": "8b1d9f67605f",
-   "title": "AI产品运营助理（AI开源工具方向） | 可转正",
-   "apply_url": "https://www.shixiseng.com/intern/inn_ozvhbfmu4ig7",
-   "apply_method": "shixiseng",
-   "source": "shixiseng",
-   "location": "北京",
-   "lane": "china_onsite",
-   "china_city": "北京",
-   "remote": "onsite",
-   "work_auth": "none_stated",
-   "role_family": "ops",
-   "semi_technical": false,
-   "company": {
-    "name": "情感机器",
-    "site": null,
-    "one_liner": "",
-    "chinese_team": true,
-    "funding": {
-     "status": "unverified"
-    },
-    "tier": "C",
-    "big_tech": false,
-    "blocked": null,
-    "batch": null,
-    "team_size": null
-   },
-   "posted_at": "2026-11-10",
-   "deadline": "2026-12-11",
-   "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
-   "pay": {
-    "text": "250-300/天",
-    "min": 250.0,
-    "max": 300.0,
-    "currency": "CNY",
-    "unit": "day"
-   },
-   "days_text": "5天/周",
-   "months_text": "3个月",
-   "days_per_week": null,
-   "duration_months": null,
-   "duties_zh": [],
-   "requirements_zh": [],
-   "skills": [],
-   "portfolio_required": false,
-   "grad_year_limit": "",
-   "needs_review": false,
-   "labels": {
-    "fact": [],
-    "inferred": [],
-    "unverified": [
-     "融资未核实"
-    ]
-   },
-   "status": "open",
-   "score": 49.7
+   "score": 50.0
   },
   {
    "id": "c6d24817aeeb",
@@ -2325,7 +2500,7 @@
    "posted_at": "2026-10-24",
    "deadline": "2027-01-20",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "80-100/天",
     "min": 80.0,
@@ -2383,7 +2558,7 @@
    "posted_at": "2026-09-24",
    "deadline": "2026-12-18",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "200/天",
     "min": 200.0,
@@ -2441,7 +2616,7 @@
    "posted_at": "2026-04-28",
    "deadline": "2026-12-24",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "100-150/天",
     "min": 100.0,
@@ -2499,7 +2674,7 @@
    "posted_at": "2026-10-27",
    "deadline": "2027-10-28",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150-200/天",
     "min": 150.0,
@@ -2557,7 +2732,7 @@
    "posted_at": "2026-10-26",
    "deadline": "2027-10-27",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "薪资面议"
    },
@@ -2611,7 +2786,7 @@
    "posted_at": "2026-11-20",
    "deadline": "2026-11-30",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150-200/天",
     "min": 150.0,
@@ -2635,7 +2810,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 23.0
+   "score": 22.7
   },
   {
    "id": "ed2249b04a79",
@@ -2667,7 +2842,7 @@
    "posted_at": "2026-11-20",
    "deadline": "2026-12-03",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150-200/天",
     "min": 150.0,
@@ -2691,7 +2866,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 23.0
+   "score": 22.7
   },
   {
    "id": "2c23096f0c31",
@@ -2723,7 +2898,7 @@
    "posted_at": "2026-11-17",
    "deadline": "2026-11-27",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "350/天",
     "min": 350.0,
@@ -2747,7 +2922,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 22.0
+   "score": 21.7
   },
   {
    "id": "978cdb380049",
@@ -2779,7 +2954,7 @@
    "posted_at": "2026-11-16",
    "deadline": "2026-12-05",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "350/天",
     "min": 350.0,
@@ -2803,7 +2978,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 21.7
+   "score": 21.3
   },
   {
    "id": "b8b174ce5536",
@@ -2835,7 +3010,7 @@
    "posted_at": "2026-11-09",
    "deadline": "2026-11-30",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "120-150/天",
     "min": 120.0,
@@ -2859,7 +3034,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 19.3
+   "score": 19.0
   },
   {
    "id": "9cee04e54164",
@@ -2891,7 +3066,7 @@
    "posted_at": "2026-11-03",
    "deadline": "2026-12-02",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "200-250/天",
     "min": 200.0,
@@ -2915,63 +3090,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 17.3
-  },
-  {
-   "id": "fb4b622a6161",
-   "title": "AI产品实习生",
-   "apply_url": "https://www.shixiseng.com/intern/inn_vfvdsy42pm0x",
-   "apply_method": "shixiseng",
-   "source": "shixiseng",
-   "location": "上海",
-   "lane": "china_onsite",
-   "china_city": "上海",
-   "remote": "onsite",
-   "work_auth": "none_stated",
-   "role_family": "pm",
-   "semi_technical": false,
-   "company": {
-    "name": "哔哩哔哩",
-    "site": "bilibili.com",
-    "one_liner": "视频社区",
-    "chinese_team": false,
-    "funding": {
-     "status": "unverified"
-    },
-    "tier": "B",
-    "big_tech": true,
-    "blocked": null,
-    "batch": null,
-    "team_size": null
-   },
-   "posted_at": "2026-11-01",
-   "deadline": "2026-12-02",
-   "first_seen": "2026-11-26",
-   "last_verified_at": "2026-11-26",
-   "pay": {
-    "text": "200-250/天",
-    "min": 200.0,
-    "max": 250.0,
-    "currency": "CNY",
-    "unit": "day"
-   },
-   "days_text": "4天/周",
-   "months_text": "3个月",
-   "days_per_week": null,
-   "duration_months": null,
-   "duties_zh": [],
-   "requirements_zh": [],
-   "skills": [],
-   "portfolio_required": false,
-   "grad_year_limit": "",
-   "needs_review": false,
-   "labels": {
-    "fact": [],
-    "inferred": [],
-    "unverified": []
-   },
-   "status": "open",
-   "score": 16.7
+   "score": 17.0
   },
   {
    "id": "1b403290350c",
@@ -3003,7 +3122,7 @@
    "posted_at": "2026-10-30",
    "deadline": "2026-12-02",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "200-250/天",
     "min": 200.0,
@@ -3027,7 +3146,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 16.0
+   "score": 15.7
   },
   {
    "id": "240396f53c0c",
@@ -3059,7 +3178,7 @@
    "posted_at": "2026-10-10",
    "deadline": "2026-12-02",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "200-250/天",
     "min": 200.0,
@@ -3086,9 +3205,9 @@
    "score": 15.0
   },
   {
-   "id": "a93bc68ac600",
+   "id": "159e756df757",
    "title": "AI产品运营实习生-TikTok",
-   "apply_url": "https://www.shixiseng.com/intern/inn_6rw8qbuwx36m",
+   "apply_url": "https://www.shixiseng.com/intern/inn_8ho2ch9vbzhh",
    "apply_method": "shixiseng",
    "source": "shixiseng",
    "location": "北京",
@@ -3112,10 +3231,10 @@
     "batch": null,
     "team_size": null
    },
-   "posted_at": "2026-11-03",
-   "deadline": "2026-12-04",
-   "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "posted_at": "2026-11-11",
+   "deadline": "2026-12-11",
+   "first_seen": "2026-11-27",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "薪资面议"
    },
@@ -3135,7 +3254,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 12.3,
+   "score": 14.7,
    "also_cities": []
   },
   {
@@ -3165,10 +3284,10 @@
     "batch": null,
     "team_size": null
    },
-   "posted_at": "2026-11-26",
+   "posted_at": "2026-11-27",
    "deadline": "2027-02-13",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "350/天",
     "min": 350.0,
@@ -3193,6 +3312,62 @@
    },
    "status": "open",
    "score": 5.0
+  },
+  {
+   "id": "035958f08ee3",
+   "title": "AI生态和赛事运营实习生-抖音",
+   "apply_url": "https://www.shixiseng.com/intern/inn_animq9heoknv",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "ops",
+   "semi_technical": false,
+   "company": {
+    "name": "字节跳动",
+    "site": "bytedance.com",
+    "one_liner": "抖音、TikTok 母公司",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-26",
+   "deadline": "2027-02-20",
+   "first_seen": "2026-11-27",
+   "last_verified_at": "2026-11-27",
+   "pay": {
+    "text": "350/天",
+    "min": 350.0,
+    "max": 350.0,
+    "currency": "CNY",
+    "unit": "day"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": 4.7
   },
   {
    "id": "de7ba0c7c02a",
@@ -3224,7 +3399,7 @@
    "posted_at": "2026-11-26",
    "deadline": "2027-02-19",
    "first_seen": "2026-11-26",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150-180/天",
     "min": 150.0,
@@ -3248,7 +3423,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 5.0
+   "score": 4.7
   },
   {
    "id": "a27164ef3f82",
@@ -3280,7 +3455,7 @@
    "posted_at": "2026-11-24",
    "deadline": "2027-02-19",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150-180/天",
     "min": 150.0,
@@ -3304,7 +3479,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 4.3
+   "score": 4.0
   },
   {
    "id": "66348b64c962",
@@ -3336,7 +3511,7 @@
    "posted_at": "2026-11-23",
    "deadline": "2027-02-24",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150-180/天",
     "min": 150.0,
@@ -3360,7 +3535,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 4.0
+   "score": 3.7
   },
   {
    "id": "3a9c13dfcf8d",
@@ -3392,7 +3567,7 @@
    "posted_at": "2026-11-23",
    "deadline": "2027-02-20",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "350/天",
     "min": 350.0,
@@ -3416,7 +3591,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 4.0
+   "score": 3.7
   },
   {
    "id": "e2bbbdcee883",
@@ -3448,7 +3623,7 @@
    "posted_at": "2026-11-19",
    "deadline": "2027-01-01",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "200-300/天",
     "min": 200.0,
@@ -3472,7 +3647,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 2.7
+   "score": 2.3
   },
   {
    "id": "e77d8d4ae643",
@@ -3504,7 +3679,7 @@
    "posted_at": "2026-11-18",
    "deadline": "2027-02-19",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150-180/天",
     "min": 150.0,
@@ -3528,7 +3703,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 2.3
+   "score": 2.0
   },
   {
    "id": "b7373cb25338",
@@ -3560,7 +3735,7 @@
    "posted_at": "2026-11-17",
    "deadline": "2027-01-01",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150-250/天",
     "min": 150.0,
@@ -3584,7 +3759,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 2.0,
+   "score": 1.7,
    "also_cities": []
   },
   {
@@ -3617,7 +3792,7 @@
    "posted_at": "2026-11-17",
    "deadline": "2027-01-01",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150-250/天",
     "min": 150.0,
@@ -3641,7 +3816,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 2.0
+   "score": 1.7
   },
   {
    "id": "8ed1a2c19694",
@@ -3673,7 +3848,7 @@
    "posted_at": "2026-11-17",
    "deadline": "2026-12-31",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "120-150/天",
     "min": 120.0,
@@ -3697,7 +3872,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 2.0
+   "score": 1.7
   },
   {
    "id": "13ec5acaa783",
@@ -3729,7 +3904,7 @@
    "posted_at": "2026-11-11",
    "deadline": "2027-08-12",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "180-250/天",
     "min": 180.0,
@@ -3753,7 +3928,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 0.0
+   "score": -0.3
   },
   {
    "id": "830d197ae1ad",
@@ -3785,7 +3960,7 @@
    "posted_at": "2026-11-11",
    "deadline": "2027-10-10",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150-200/天",
     "min": 150.0,
@@ -3809,7 +3984,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": 0.0
+   "score": -0.3
   },
   {
    "id": "a8651484e65c",
@@ -3841,7 +4016,7 @@
    "posted_at": "2026-11-09",
    "deadline": "2027-02-19",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150-180/天",
     "min": 150.0,
@@ -3865,7 +4040,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": -0.7
+   "score": -1.0
   },
   {
    "id": "10c68189fb92",
@@ -3897,7 +4072,7 @@
    "posted_at": "2026-11-23",
    "deadline": "2027-10-10",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "薪资面议"
    },
@@ -3917,7 +4092,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": -1.0
+   "score": -1.3
   },
   {
    "id": "340bc419ebc9",
@@ -3949,7 +4124,7 @@
    "posted_at": "2026-11-06",
    "deadline": "2027-04-15",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "180-250/天",
     "min": 180.0,
@@ -3973,7 +4148,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": -1.7,
+   "score": -2.0,
    "also_cities": [
     "上海"
    ]
@@ -4008,7 +4183,7 @@
    "posted_at": "2026-11-18",
    "deadline": "2027-10-10",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "薪资面议"
    },
@@ -4028,7 +4203,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": -2.7
+   "score": -3.0
   },
   {
    "id": "02c65f3f6932",
@@ -4060,7 +4235,7 @@
    "posted_at": "2026-11-17",
    "deadline": "2027-10-10",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "薪资面议"
    },
@@ -4080,7 +4255,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": -3.0
+   "score": -3.3
   },
   {
    "id": "29b9e2815971",
@@ -4112,7 +4287,7 @@
    "posted_at": "2026-10-29",
    "deadline": "2027-01-01",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "200-300/天",
     "min": 200.0,
@@ -4136,7 +4311,7 @@
     "unverified": []
    },
    "status": "open",
-   "score": -4.3
+   "score": -4.7
   },
   {
    "id": "d982c4e80cea",
@@ -4168,7 +4343,7 @@
    "posted_at": "2026-10-26",
    "deadline": "2027-08-12",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "180-200/天",
     "min": 180.0,
@@ -4224,7 +4399,7 @@
    "posted_at": "2026-07-03",
    "deadline": "2027-03-04",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150-180/天",
     "min": 150.0,
@@ -4280,7 +4455,7 @@
    "posted_at": "2026-05-11",
    "deadline": "2027-03-04",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150-180/天",
     "min": 150.0,
@@ -4307,22 +4482,22 @@
    "score": -5.0
   },
   {
-   "id": "cfa33d53002a",
-   "title": "创新产品增长运营实习生（海外留学生优先）可线上",
-   "apply_url": "https://www.shixiseng.com/intern/inn_awzjvczokiyt",
+   "id": "459075352b6d",
+   "title": "AIGC音色运营实习生",
+   "apply_url": "https://www.shixiseng.com/intern/inn_afq3kkol18fe",
    "apply_method": "shixiseng",
    "source": "shixiseng",
-   "location": "北京",
+   "location": "上海",
    "lane": "china_onsite",
-   "china_city": "北京",
+   "china_city": "上海",
    "remote": "onsite",
    "work_auth": "none_stated",
-   "role_family": "growth",
+   "role_family": "ops",
    "semi_technical": false,
    "company": {
-    "name": "小红书",
-    "site": "xiaohongshu.com",
-    "one_liner": "生活方式社区",
+    "name": "喜马拉雅",
+    "site": "ximalaya.com",
+    "one_liner": "音频平台",
     "chinese_team": false,
     "funding": {
      "status": "unverified"
@@ -4333,15 +4508,19 @@
     "batch": null,
     "team_size": null
    },
-   "posted_at": "2026-11-11",
-   "deadline": "2027-10-10",
-   "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "posted_at": "2026-07-04",
+   "deadline": "2027-03-04",
+   "first_seen": "2026-11-27",
+   "last_verified_at": "2026-11-27",
    "pay": {
-    "text": "薪资面议"
+    "text": "150-180/天",
+    "min": 150.0,
+    "max": 180.0,
+    "currency": "CNY",
+    "unit": "day"
    },
    "days_text": "5天/周",
-   "months_text": "3个月",
+   "months_text": "6个月",
    "days_per_week": null,
    "duration_months": null,
    "duties_zh": [],
@@ -4388,7 +4567,7 @@
    "posted_at": "2025-12-04",
    "deadline": "2027-04-02",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "80-100/天",
     "min": 80.0,
@@ -4444,7 +4623,7 @@
    "posted_at": "2026-10-09",
    "deadline": "2027-02-19",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "180-250/天",
     "min": 180.0,
@@ -4468,62 +4647,6 @@
     "unverified": []
    },
    "status": "open",
-   "score": -5.0
-  },
-  {
-   "id": "1878d70edccb",
-   "title": "百度AI搜索产品运营实习生",
-   "apply_url": "https://www.shixiseng.com/intern/inn_ohvoq4lepb2m",
-   "apply_method": "shixiseng",
-   "source": "shixiseng",
-   "location": "北京",
-   "lane": "china_onsite",
-   "china_city": "北京",
-   "remote": "onsite",
-   "work_auth": "none_stated",
-   "role_family": "ops",
-   "semi_technical": false,
-   "company": {
-    "name": "百度",
-    "site": "baidu.com",
-    "one_liner": "搜索与文心大模型",
-    "chinese_team": false,
-    "funding": {
-     "status": "unverified"
-    },
-    "tier": "B",
-    "big_tech": true,
-    "blocked": null,
-    "batch": null,
-    "team_size": null
-   },
-   "posted_at": "2025-09-02",
-   "deadline": "2027-01-01",
-   "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
-   "pay": {
-    "text": "120-180/天",
-    "min": 120.0,
-    "max": 180.0,
-    "currency": "CNY",
-    "unit": "day"
-   },
-   "days_text": "5天/周",
-   "months_text": "6个月",
-   "days_per_week": null,
-   "duration_months": null,
-   "duties_zh": [],
-   "requirements_zh": [],
-   "skills": [],
-   "portfolio_required": false,
-   "grad_year_limit": "",
-   "needs_review": false,
-   "labels": {
-    "fact": [],
-    "inferred": [],
-    "unverified": []
-   },
-   "status": "zombie",
    "score": -5.0
   },
   {
@@ -4556,7 +4679,7 @@
    "posted_at": "2026-03-17",
    "deadline": "2027-01-01",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "250-300/天",
     "min": 250.0,
@@ -4612,7 +4735,7 @@
    "posted_at": "2026-10-14",
    "deadline": "2027-01-01",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "200-400/天",
     "min": 200.0,
@@ -4668,7 +4791,7 @@
    "posted_at": "2026-08-31",
    "deadline": "2027-01-01",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "150-250/天",
     "min": 150.0,
@@ -4724,7 +4847,7 @@
    "posted_at": "2026-10-08",
    "deadline": "2027-01-06",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "120/天",
     "min": 120.0,
@@ -4780,7 +4903,7 @@
    "posted_at": "2026-10-14",
    "deadline": "2027-01-06",
    "first_seen": "2026-11-23",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "120/天",
     "min": 120.0,
@@ -4836,7 +4959,7 @@
    "posted_at": "2026-08-27",
    "deadline": "2027-03-04",
    "first_seen": "2026-11-24",
-   "last_verified_at": "2026-11-26",
+   "last_verified_at": "2026-11-27",
    "pay": {
     "text": "200-250/天",
     "min": 200.0,
@@ -4861,6 +4984,58 @@
    },
    "status": "open",
    "score": -5.0
+  },
+  {
+   "id": "cfa33d53002a",
+   "title": "创新产品增长运营实习生（海外留学生优先）可线上",
+   "apply_url": "https://www.shixiseng.com/intern/inn_awzjvczokiyt",
+   "apply_method": "shixiseng",
+   "source": "shixiseng",
+   "location": "北京",
+   "lane": "china_onsite",
+   "china_city": "北京",
+   "remote": "onsite",
+   "work_auth": "none_stated",
+   "role_family": "growth",
+   "semi_technical": false,
+   "company": {
+    "name": "小红书",
+    "site": "xiaohongshu.com",
+    "one_liner": "生活方式社区",
+    "chinese_team": false,
+    "funding": {
+     "status": "unverified"
+    },
+    "tier": "B",
+    "big_tech": true,
+    "blocked": null,
+    "batch": null,
+    "team_size": null
+   },
+   "posted_at": "2026-11-11",
+   "deadline": "2027-10-10",
+   "first_seen": "2026-11-23",
+   "last_verified_at": "2026-11-27",
+   "pay": {
+    "text": "薪资面议"
+   },
+   "days_text": "5天/周",
+   "months_text": "3个月",
+   "days_per_week": null,
+   "duration_months": null,
+   "duties_zh": [],
+   "requirements_zh": [],
+   "skills": [],
+   "portfolio_required": false,
+   "grad_year_limit": "",
+   "needs_review": false,
+   "labels": {
+    "fact": [],
+    "inferred": [],
+    "unverified": []
+   },
+   "status": "open",
+   "score": -5.3
   }
  ]
 }
