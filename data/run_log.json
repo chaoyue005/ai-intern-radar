@@ -1,5 +1,5 @@
 {
- "at": "2026-11-27T06:01:07+00:00",
+ "at": "2026-11-28T05:41:33+00:00",
  "items": [
   {
    "key": "ats_raw",
@@ -23,11 +23,11 @@
   },
   {
    "key": "shixiseng_candidates",
-   "value": 376
+   "value": 375
   },
   {
    "key": "shixiseng_raw",
-   "value": 98
+   "value": 97
   },
   {
    "key": "eleduck_raw",
@@ -39,18 +39,18 @@
   },
   {
    "key": "enrich_skipped",
-   "value": "135 条（未设置 ANTHROPIC_API_KEY）"
+   "value": "134 条（未设置 ANTHROPIC_API_KEY）"
   },
   {
    "key": "stats",
    "value": {
-    "updated_at": "2026-11-27T06:01:07+00:00",
-    "total": 82,
-    "remote": 27,
-    "china_onsite": 55,
-    "added_today": 13,
-    "removed_7d": 14,
-    "companies": 47,
+    "updated_at": "2026-11-28T05:41:33+00:00",
+    "total": 80,
+    "remote": 26,
+    "china_onsite": 54,
+    "added_today": 7,
+    "removed_7d": 17,
+    "companies": 45,
     "sources": [
      "ashby",
      "eleduck",
@@ -67,7 +67,7 @@
   },
   {
    "key": "seconds",
-   "value": 639
+   "value": 730
   }
  ]
 }

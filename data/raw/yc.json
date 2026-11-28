@@ -46,25 +46,25 @@
   }
  },
  {
-  "company": "Abundant",
-  "title": "Member of Technical Staff, Research (Intern Winter 2027) ",
-  "apply_url": "https://www.ycombinator.com/companies/abundant/jobs/BzaOY1P-member-of-technical-staff-research-intern-winter-2027",
+  "company": "Posh",
+  "title": "Social Media Marketing Intern",
+  "apply_url": "https://www.ycombinator.com/companies/posh/jobs/Nft43pe-social-media-marketing-intern",
   "apply_method": "yc",
   "source": "yc",
-  "location": "San Francisco",
+  "location": "Hayward, CA, US",
   "description": "",
   "visa": "US citizen/visa only",
-  "pay_text": "",
-  "posted_ago": "3 months",
+  "pay_text": "$2K - $3K / monthly",
+  "posted_ago": "over 3 years",
   "employment_type": "intern",
   "company_meta": {
-   "site": "https://www.abundant.ai/",
-   "one_liner": "Agent simulation and RL for researchers",
-   "batch": "Fall 2024",
-   "team_size": 7,
+   "site": "https://www.poshenergy.com",
+   "one_liner": "Turning power into AI compute at speed with modular data centers at…",
+   "batch": "Winter 2022",
+   "team_size": 10,
    "funding": {
     "status": "yc_only",
-    "round": "YC Fall 2024"
+    "round": "YC Winter 2022"
    }
   }
  }

@@ -566,12 +566,11 @@
   ]
  },
  {
-  "company": "Abundant",
-  "title": "Member of Technical Staff, Research (Intern Winter 2027) ",
-  "url": "https://www.ycombinator.com/companies/abundant/jobs/BzaOY1P-member-of-technical-staff-research-intern-winter-2027",
+  "company": "Posh",
+  "title": "Social Media Marketing Intern",
+  "url": "https://www.ycombinator.com/companies/posh/jobs/Nft43pe-social-media-marketing-intern",
   "source": "yc",
   "reasons": [
-   "technical",
    "overseas_onsite",
    "us_only"
   ]
@@ -942,6 +941,15 @@
   "company": "喜播集团",
   "title": "AI短视频运营实习生",
   "url": "https://www.shixiseng.com/intern/inn_3ckl6d2ojqtu",
+  "source": "shixiseng",
+  "reasons": [
+   "overseas_onsite"
+  ]
+ },
+ {
+  "company": "有见求职",
+  "title": "运营支持实习生",
+  "url": "https://www.shixiseng.com/intern/inn_j9hpm42bopc4",
   "source": "shixiseng",
   "reasons": [
    "overseas_onsite"
